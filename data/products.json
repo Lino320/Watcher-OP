@@ -2207,7 +2207,7 @@
             "products": {
                 "https://theboosterbox.es/products/one-piece-op17-the-world-s-strongest-warriors": {
                     "store": "The Booster Box",
-                    "title": "One Piece - OP17 - The World´s Strongest Warriors",
+                    "title": "One Piece - OP17 - The World´s Strongest Warriors - Inglés",
                     "price": 229.9,
                     "price_text": "229.90 €",
                     "stock": "OUT_OF_STOCK",
@@ -3215,7 +3215,7 @@
                     "title": "One Piece Card Game: Marshall D. Teach (ST-27) (Starter Deck)",
                     "price": 14.35,
                     "price_text": "14.35 €",
-                    "stock": "UNKNOWN",
+                    "stock": "AVAILABLE",
                     "url": "https://threestonesgames.com/products/one-piece-card-game-marshall-d-teach-st-27-starter-deck",
                     "published_at": null,
                     "language": "EN"
