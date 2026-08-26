@@ -1,0 +1,13 @@
+# OnepieceWatch private files
+discord_config_local.py
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# Local temporary state
+arte9_seen.json
