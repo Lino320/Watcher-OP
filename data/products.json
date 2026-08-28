@@ -1414,15 +1414,6 @@
                     "url": "https://www.padis-store.com/42635-reserva-one-piece-st35-starter-deck-ingles.html",
                     "published_at": null
                 },
-                "https://www.padis-store.com/42632-reserva-one-piece-st32-starter-deck-ingles.html": {
-                    "store": "Padis",
-                    "title": "One Piece - Roronoa Zoro Starter Deck ST32 (Inglés)",
-                    "price": null,
-                    "price_text": "Sin precio",
-                    "stock": "AVAILABLE",
-                    "url": "https://www.padis-store.com/42632-reserva-one-piece-st32-starter-deck-ingles.html",
-                    "published_at": null
-                },
                 "https://www.padis-store.com/38750-one-piece-sound-loader-volume-2.html": {
                     "store": "Padis",
                     "title": "One Piece - Sound Loader Volume 2 (Inglés)",
@@ -2178,6 +2169,16 @@
         "The Booster Box": {
             "initialized": true,
             "products": {
+                "https://theboosterbox.es/products/one-piece-op17-the-world-s-strongest-warriors-japones": {
+                    "store": "The Booster Box",
+                    "title": "One Piece - OP17 - The World´s Strongest Warriors - Japonés",
+                    "price": 169.9,
+                    "price_text": "169.90 €",
+                    "stock": "OUT_OF_STOCK",
+                    "url": "https://theboosterbox.es/products/one-piece-op17-the-world-s-strongest-warriors-japones",
+                    "published_at": "2026-08-28T16:03:31+02:00",
+                    "language": "EN"
+                },
                 "https://theboosterbox.es/products/one-piece-op17-the-world-s-strongest-warriors": {
                     "store": "The Booster Box",
                     "title": "One Piece - OP17 - The World´s Strongest Warriors - Inglés",
