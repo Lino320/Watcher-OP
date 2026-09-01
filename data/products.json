@@ -1681,6 +1681,16 @@
         "Madrid Norte TCG": {
             "initialized": true,
             "products": {
+                "https://madridnortetcg.com/products/funko-pop-kaido-dragon-form-1623-one-piece-jumbo": {
+                    "store": "Madrid Norte TCG",
+                    "title": "Funko Pop! Jumbo One Piece – Kaido Dragon Form #1623",
+                    "price": 39.95,
+                    "price_text": "39.95 €",
+                    "stock": "AVAILABLE",
+                    "url": "https://madridnortetcg.com/products/funko-pop-kaido-dragon-form-1623-one-piece-jumbo",
+                    "published_at": "2026-09-01T19:12:41+02:00",
+                    "language": "EN"
+                },
                 "https://madridnortetcg.com/products/funko-pop-monkey-d-luffy-with-meat-1771-one-piece": {
                     "store": "Madrid Norte TCG",
                     "title": "Funko Pop! One Piece – Monkey D. Luffy with Meat #1771",
