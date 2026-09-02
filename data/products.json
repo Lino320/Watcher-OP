@@ -3,14 +3,6 @@
         "Arte9": {
             "initialized": true,
             "products": {
-                "https://arte9.com/producto/caja-heroines-edition-vol-2-one-piece-card-game-eb-05/": {
-                    "store": "Arte9",
-                    "title": "PREVENTA – CAJA HEROINES . . .",
-                    "price": null,
-                    "price_text": "Sin precio",
-                    "stock": "PREORDER",
-                    "url": "https://arte9.com/producto/caja-heroines-edition-vol-2-one-piece-card-game-eb-05/"
-                },
                 "https://arte9.com/producto/caja-big-three-themes-one-piece-card-game-op-18/": {
                     "store": "Arte9",
                     "title": "PREVENTA – CAJA BIG THRE . . .",
@@ -18,6 +10,14 @@
                     "price_text": "Sin precio",
                     "stock": "PREORDER",
                     "url": "https://arte9.com/producto/caja-big-three-themes-one-piece-card-game-op-18/"
+                },
+                "https://arte9.com/producto/caja-heroines-edition-vol-2-one-piece-card-game-eb-05/": {
+                    "store": "Arte9",
+                    "title": "PREVENTA – CAJA HEROINES . . .",
+                    "price": null,
+                    "price_text": "Sin precio",
+                    "stock": "PREORDER",
+                    "url": "https://arte9.com/producto/caja-heroines-edition-vol-2-one-piece-card-game-eb-05/"
                 },
                 "https://arte9.com/producto/deck-set-6-one-piece-card-game/": {
                     "store": "Arte9",
@@ -2247,7 +2247,7 @@
                     "title": "One Piece - OP17 - The World´s Strongest Warriors - Japonés",
                     "price": 139.9,
                     "price_text": "139.90 €",
-                    "stock": "AVAILABLE",
+                    "stock": "OUT_OF_STOCK",
                     "url": "https://theboosterbox.es/products/one-piece-op17-the-world-s-strongest-warriors-japones",
                     "published_at": "2026-08-28T16:03:31+02:00",
                     "language": "EN"
