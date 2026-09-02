@@ -1378,15 +1378,6 @@
                     "url": "https://www.padis-store.com/43155-one-piece-premium-card-collection-best-selection-vol6-ingles.html",
                     "published_at": null
                 },
-                "https://www.padis-store.com/42636-reserva-one-piece-st36-starter-deck-ingles.html": {
-                    "store": "Padis",
-                    "title": "One Piece - Eustass Captain Kid Starter Deck ST36 (Inglés)",
-                    "price": null,
-                    "price_text": "Sin precio",
-                    "stock": "AVAILABLE",
-                    "url": "https://www.padis-store.com/42636-reserva-one-piece-st36-starter-deck-ingles.html",
-                    "published_at": null
-                },
                 "https://www.padis-store.com/42635-reserva-one-piece-st35-starter-deck-ingles.html": {
                     "store": "Padis",
                     "title": "One Piece - Sabo Starter Deck ST35 (Inglés)",
@@ -1846,7 +1837,7 @@
                     "title": "Premium Card Collection Best Selection Vol. 7 Inglés - One Piece Card Game",
                     "price": 44.45,
                     "price_text": "44.45 €",
-                    "stock": "OUT_OF_STOCK",
+                    "stock": "AVAILABLE",
                     "url": "https://madridnortetcg.com/products/premium-card-collection-best-selection-vol-7-ingles-one-piece-card-game",
                     "published_at": "2026-07-08T12:33:23+02:00",
                     "language": "EN"
