@@ -2255,9 +2255,9 @@
                 "https://theboosterbox.es/products/one-piece-op17-the-world-s-strongest-warriors": {
                     "store": "The Booster Box",
                     "title": "One Piece - OP17 - The World´s Strongest Warriors - Inglés",
-                    "price": 229.9,
-                    "price_text": "229.90 €",
-                    "stock": "OUT_OF_STOCK",
+                    "price": 319.9,
+                    "price_text": "319.90 €",
+                    "stock": "AVAILABLE",
                     "url": "https://theboosterbox.es/products/one-piece-op17-the-world-s-strongest-warriors",
                     "published_at": "2026-08-21T09:18:44+02:00",
                     "language": "EN"
@@ -3247,6 +3247,16 @@
         "Three Stones Games": {
             "initialized": true,
             "products": {
+                "https://threestonesgames.com/products/deck-set-sd-01-ingles-one-piece-card-game": {
+                    "store": "Three Stones Games",
+                    "title": "Deck Set SD-01 Inglés - One Piece Card Game",
+                    "price": 24.95,
+                    "price_text": "24.95 €",
+                    "stock": "UNKNOWN",
+                    "url": "https://threestonesgames.com/products/deck-set-sd-01-ingles-one-piece-card-game",
+                    "published_at": null,
+                    "language": "EN"
+                },
                 "https://threestonesgames.com/products/one-piece-card-game-yamato-st-28-starter-deck": {
                     "store": "Three Stones Games",
                     "title": "One Piece Card Game: Yamato (ST-28) (Starter Deck)",
@@ -3314,16 +3324,6 @@
                     "price_text": "14.95 €",
                     "stock": "UNKNOWN",
                     "url": "https://threestonesgames.com/products/one-piece-card-game-st-36-starter-deck",
-                    "published_at": null,
-                    "language": "EN"
-                },
-                "https://threestonesgames.com/products/one-piece-card-game-st-35-starter-deck": {
-                    "store": "Three Stones Games",
-                    "title": "One Piece Card Game ST-35 Starter Deck",
-                    "price": 13.95,
-                    "price_text": "13.95 €",
-                    "stock": "UNKNOWN",
-                    "url": "https://threestonesgames.com/products/one-piece-card-game-st-35-starter-deck",
                     "published_at": null,
                     "language": "EN"
                 }
