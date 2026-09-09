@@ -307,14 +307,6 @@
                     "stock": "AVAILABLE",
                     "url": "https://arte9.com/producto/sketch-tapete-one-piece-ultimate-guard/"
                 },
-                "https://arte9.com/producto/3rd-anniversary-set-english-version-one-piece-card-game/": {
-                    "store": "Arte9",
-                    "title": "3RD ANNIVERSARY SET ENGLISH VE . . .",
-                    "price": null,
-                    "price_text": "Sin precio",
-                    "stock": "OUT_OF_STOCK",
-                    "url": "https://arte9.com/producto/3rd-anniversary-set-english-version-one-piece-card-game/"
-                },
                 "https://arte9.com/producto/double-pack-set-vol-09-the-azures-seas-seven/": {
                     "store": "Arte9",
                     "title": "DOUBLE PACK SET VOL.09 – . . .",
@@ -1369,6 +1361,15 @@
                     "url": "https://www.padis-store.com/43643-reserva-one-piece-premium-card-collection-live-action-edition-vol2-baroque-works-ingles.html",
                     "published_at": null
                 },
+                "https://www.padis-store.com/43475-one-piece-adventure-on-the-island-of-the-gods-op15-sobre-12-ingles.html": {
+                    "store": "Padis",
+                    "title": "One Piece - Adventure on Kami's Islands OP15: Sobre (12) Inglés",
+                    "price": null,
+                    "price_text": "Sin precio",
+                    "stock": "AVAILABLE",
+                    "url": "https://www.padis-store.com/43475-one-piece-adventure-on-the-island-of-the-gods-op15-sobre-12-ingles.html",
+                    "published_at": null
+                },
                 "https://www.padis-store.com/43155-one-piece-premium-card-collection-best-selection-vol6-ingles.html": {
                     "store": "Padis",
                     "title": "One Piece - Premium Card Collection -Best Selection Vol.6- (Inglés)",
@@ -1385,6 +1386,15 @@
                     "price_text": "Sin precio",
                     "stock": "AVAILABLE",
                     "url": "https://www.padis-store.com/42635-reserva-one-piece-st35-starter-deck-ingles.html",
+                    "published_at": null
+                },
+                "https://www.padis-store.com/42018-one-piece-op15-caja-de-sobres-24-ingles.html": {
+                    "store": "Padis",
+                    "title": "One Piece - Adventure on Kami's Islands OP15: Caja de Sobres (24) Inglés",
+                    "price": null,
+                    "price_text": "Sin precio",
+                    "stock": "AVAILABLE",
+                    "url": "https://www.padis-store.com/42018-one-piece-op15-caja-de-sobres-24-ingles.html",
                     "published_at": null
                 },
                 "https://www.padis-store.com/38750-one-piece-sound-loader-volume-2.html": {
