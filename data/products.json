@@ -32,7 +32,7 @@
                     "title": "ILLUSTRATION BOX #08 – O . . .",
                     "price": null,
                     "price_text": "Sin precio",
-                    "stock": "OUT_OF_STOCK",
+                    "stock": "AVAILABLE",
                     "url": "https://arte9.com/producto/illustration-box-08-one-piece-card-game-vol-8/"
                 },
                 "https://arte9.com/producto/illustration-box-07-one-piece-card-game-vol-7/": {
@@ -40,7 +40,7 @@
                     "title": "ILLUSTRATION BOX #07 – O . . .",
                     "price": null,
                     "price_text": "Sin precio",
-                    "stock": "OUT_OF_STOCK",
+                    "stock": "AVAILABLE",
                     "url": "https://arte9.com/producto/illustration-box-07-one-piece-card-game-vol-7/"
                 },
                 "https://arte9.com/producto/double-pack-set-vol-12-the-world-strongest-warriors/": {
@@ -56,7 +56,7 @@
                     "title": "KID – STARTER DECK ONE P . . .",
                     "price": null,
                     "price_text": "Sin precio",
-                    "stock": "PREORDER",
+                    "stock": "AVAILABLE",
                     "url": "https://arte9.com/producto/kid-starter-deck-one-piece-st-36/"
                 },
                 "https://arte9.com/producto/sabo-starter-deck-one-piece-st-35/": {
@@ -64,7 +64,7 @@
                     "title": "SABO – STARTER DECK ONE  . . .",
                     "price": null,
                     "price_text": "Sin precio",
-                    "stock": "PREORDER",
+                    "stock": "AVAILABLE",
                     "url": "https://arte9.com/producto/sabo-starter-deck-one-piece-st-35/"
                 },
                 "https://arte9.com/producto/katakuri-starter-deck-one-piece-st-34/": {
@@ -72,7 +72,7 @@
                     "title": "KATAKURI – STARTER DECK  . . .",
                     "price": null,
                     "price_text": "Sin precio",
-                    "stock": "PREORDER",
+                    "stock": "AVAILABLE",
                     "url": "https://arte9.com/producto/katakuri-starter-deck-one-piece-st-34/"
                 },
                 "https://arte9.com/producto/kuzan-starter-deck-one-piece-st-33/": {
@@ -80,7 +80,7 @@
                     "title": "KUZAN – STARTER DECK ONE . . .",
                     "price": null,
                     "price_text": "Sin precio",
-                    "stock": "PREORDER",
+                    "stock": "AVAILABLE",
                     "url": "https://arte9.com/producto/kuzan-starter-deck-one-piece-st-33/"
                 },
                 "https://arte9.com/producto/zoro-starter-deck-one-piece-st-32/": {
@@ -88,7 +88,7 @@
                     "title": "ZORO – STARTER DECK ONE  . . .",
                     "price": null,
                     "price_text": "Sin precio",
-                    "stock": "OUT_OF_STOCK",
+                    "stock": "AVAILABLE",
                     "url": "https://arte9.com/producto/zoro-starter-deck-one-piece-st-32/"
                 },
                 "https://arte9.com/producto/luffy-ace-starter-deck-one-piece-st-31/": {
@@ -96,7 +96,7 @@
                     "title": "LUFFY – STARTER DECK ONE . . .",
                     "price": null,
                     "price_text": "Sin precio",
-                    "stock": "OUT_OF_STOCK",
+                    "stock": "AVAILABLE",
                     "url": "https://arte9.com/producto/luffy-ace-starter-deck-one-piece-st-31/"
                 },
                 "https://arte9.com/producto/best-selection-vol-6-premium-card-collection-one-piece-ccg/": {
@@ -104,7 +104,7 @@
                     "title": "BEST SELECTION VOL 6 – P . . .",
                     "price": null,
                     "price_text": "Sin precio",
-                    "stock": "PREORDER",
+                    "stock": "AVAILABLE",
                     "url": "https://arte9.com/producto/best-selection-vol-6-premium-card-collection-one-piece-ccg/"
                 },
                 "https://arte9.com/producto/double-pack-set-vol-11-the-time-of-battle/": {
@@ -2265,8 +2265,8 @@
                 "https://theboosterbox.es/products/one-piece-op17-the-world-s-strongest-warriors": {
                     "store": "The Booster Box",
                     "title": "One Piece - OP17 - The World´s Strongest Warriors - Inglés",
-                    "price": 319.9,
-                    "price_text": "319.90 €",
+                    "price": 309.9,
+                    "price_text": "309.90 €",
                     "stock": "AVAILABLE",
                     "url": "https://theboosterbox.es/products/one-piece-op17-the-world-s-strongest-warriors",
                     "published_at": "2026-08-21T09:18:44+02:00",
