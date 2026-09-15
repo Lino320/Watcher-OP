@@ -3,6 +3,14 @@
         "Arte9": {
             "initialized": true,
             "products": {
+                "https://arte9.com/producto/set-sail-deck-one-piece-sd-01/": {
+                    "store": "Arte9",
+                    "title": "SET SAIL DECK – ONE PIEC . . .",
+                    "price": null,
+                    "price_text": "Sin precio",
+                    "stock": "PREORDER",
+                    "url": "https://arte9.com/producto/set-sail-deck-one-piece-sd-01/"
+                },
                 "https://arte9.com/producto/caja-big-three-themes-one-piece-card-game-op-18/": {
                     "store": "Arte9",
                     "title": "PREVENTA – CAJA BIG THRE . . .",
