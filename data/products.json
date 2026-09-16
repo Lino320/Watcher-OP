@@ -152,7 +152,7 @@
                     "title": "ZORO – STARTER DECK ONE  . . .",
                     "price": null,
                     "price_text": "Sin precio",
-                    "stock": "AVAILABLE",
+                    "stock": "PREORDER",
                     "url": "https://arte9.com/producto/zoro-starter-deck-one-piece-st-32/"
                 },
                 "https://arte9.com/producto/luffy-ace-starter-deck-one-piece-st-31/": {
@@ -1432,6 +1432,15 @@
                     "price_text": "Sin precio",
                     "stock": "AVAILABLE",
                     "url": "https://www.padis-store.com/43475-one-piece-adventure-on-the-island-of-the-gods-op15-sobre-12-ingles.html",
+                    "published_at": null
+                },
+                "https://www.padis-store.com/43474-one-piece-heroines-edition-eb03-sobres-12-ingles.html": {
+                    "store": "Padis",
+                    "title": "One Piece Heroines Edition EB03: Sobres (12) Inglés",
+                    "price": null,
+                    "price_text": "Sin precio",
+                    "stock": "AVAILABLE",
+                    "url": "https://www.padis-store.com/43474-one-piece-heroines-edition-eb03-sobres-12-ingles.html",
                     "published_at": null
                 },
                 "https://www.padis-store.com/43270-one-piece-tcg-special-goods-set-former-four-emperors.html": {
