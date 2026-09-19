@@ -3,14 +3,6 @@
         "Arte9": {
             "initialized": true,
             "products": {
-                "https://arte9.com/producto/set-sail-deck-one-piece-sd-01/": {
-                    "store": "Arte9",
-                    "title": "SET SAIL DECK – ONE PIEC . . .",
-                    "price": null,
-                    "price_text": "Sin precio",
-                    "stock": "OUT_OF_STOCK",
-                    "url": "https://arte9.com/producto/set-sail-deck-one-piece-sd-01/"
-                },
                 "https://arte9.com/producto/caja-big-three-themes-one-piece-card-game-op-18/": {
                     "store": "Arte9",
                     "title": "PREVENTA – CAJA BIG THRE . . .",
@@ -26,6 +18,14 @@
                     "price_text": "Sin precio",
                     "stock": "PREORDER",
                     "url": "https://arte9.com/producto/caja-heroines-edition-vol-2-one-piece-card-game-eb-05/"
+                },
+                "https://arte9.com/producto/set-sail-deck-one-piece-sd-01/": {
+                    "store": "Arte9",
+                    "title": "SET SAIL DECK – ONE PIEC . . .",
+                    "price": null,
+                    "price_text": "Sin precio",
+                    "stock": "OUT_OF_STOCK",
+                    "url": "https://arte9.com/producto/set-sail-deck-one-piece-sd-01/"
                 },
                 "https://arte9.com/producto/pack-6-starter-decks-one-piece-st-39-st44/": {
                     "store": "Arte9",
@@ -1445,7 +1445,7 @@
                 },
                 "https://www.padis-store.com/43474-one-piece-heroines-edition-eb03-sobres-12-ingles.html": {
                     "store": "Padis",
-                    "title": "One Piece Heroines Edition EB03: Sobres (12) Inglés",
+                    "title": "One Piece - Heroines Edition EB03: Sobres (12 Cartas) Inglés",
                     "price": null,
                     "price_text": "Sin precio",
                     "stock": "AVAILABLE",
