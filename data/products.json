@@ -8,7 +8,7 @@
                     "title": "PREVENTA – CAJA BIG THRE . . .",
                     "price": null,
                     "price_text": "Sin precio",
-                    "stock": "OUT_OF_STOCK",
+                    "stock": "PREORDER",
                     "url": "https://arte9.com/producto/caja-big-three-themes-one-piece-card-game-op-18/"
                 },
                 "https://arte9.com/producto/caja-heroines-edition-vol-2-one-piece-card-game-eb-05/": {
@@ -16,7 +16,7 @@
                     "title": "PREVENTA – CAJA HEROINES . . .",
                     "price": null,
                     "price_text": "Sin precio",
-                    "stock": "PREORDER",
+                    "stock": "OUT_OF_STOCK",
                     "url": "https://arte9.com/producto/caja-heroines-edition-vol-2-one-piece-card-game-eb-05/"
                 },
                 "https://arte9.com/producto/set-sail-deck-one-piece-sd-01/": {
@@ -1477,6 +1477,15 @@
                     "price_text": "Sin precio",
                     "stock": "AVAILABLE",
                     "url": "https://www.padis-store.com/43155-one-piece-premium-card-collection-best-selection-vol6-ingles.html",
+                    "published_at": null
+                },
+                "https://www.padis-store.com/43057-reserva-one-piece-the-worlds-strongest-warriors-op17-caja-de-sobres-24-ingles.html": {
+                    "store": "Padis",
+                    "title": "One Piece - The World’s Strongest Warriors OP17: Caja de Sobres (24) Inglés",
+                    "price": null,
+                    "price_text": "Sin precio",
+                    "stock": "AVAILABLE",
+                    "url": "https://www.padis-store.com/43057-reserva-one-piece-the-worlds-strongest-warriors-op17-caja-de-sobres-24-ingles.html",
                     "published_at": null
                 },
                 "https://www.padis-store.com/42636-reserva-one-piece-st36-starter-deck-ingles.html": {
