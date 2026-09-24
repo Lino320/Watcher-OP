@@ -1497,6 +1497,24 @@
                     "url": "https://www.padis-store.com/43057-reserva-one-piece-the-worlds-strongest-warriors-op17-caja-de-sobres-24-ingles.html",
                     "published_at": null
                 },
+                "https://www.padis-store.com/42882-one-piece-illustration-box-ib08-ingles.html": {
+                    "store": "Padis",
+                    "title": "One Piece - Illustration Box IB08 (Inglés)",
+                    "price": null,
+                    "price_text": "Sin precio",
+                    "stock": "AVAILABLE",
+                    "url": "https://www.padis-store.com/42882-one-piece-illustration-box-ib08-ingles.html",
+                    "published_at": null
+                },
+                "https://www.padis-store.com/42881-one-piece-illustration-box-ib07-ingles.html": {
+                    "store": "Padis",
+                    "title": "One Piece - Illustration Box IB07 (Inglés)",
+                    "price": null,
+                    "price_text": "Sin precio",
+                    "stock": "AVAILABLE",
+                    "url": "https://www.padis-store.com/42881-one-piece-illustration-box-ib07-ingles.html",
+                    "published_at": null
+                },
                 "https://www.padis-store.com/42636-reserva-one-piece-st36-starter-deck-ingles.html": {
                     "store": "Padis",
                     "title": "One Piece - Eustass Captain Kid Starter Deck ST36 (Inglés)",
@@ -3295,7 +3313,7 @@
                     "title": "One Piece Card Game: Buggy (ST-25) (Starter Deck)",
                     "price": 14.35,
                     "price_text": "14.35 €",
-                    "stock": "AVAILABLE",
+                    "stock": "UNKNOWN",
                     "url": "https://threestonesgames.com/products/one-piece-card-game-buggy-st-25-starter-deck",
                     "published_at": null,
                     "language": "EN"
