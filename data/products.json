@@ -2095,26 +2095,6 @@
                     "published_at": "2026-04-06T18:25:55+02:00",
                     "language": "EN"
                 },
-                "https://madridnortetcg.com/products/booster-box-eb03-heroines-edition-ingles-one-piece-tcg": {
-                    "store": "Madrid Norte TCG",
-                    "title": "Booster Box EB-03 Heroines Edition Inglés – One Piece Card Game (24 Sobres)",
-                    "price": 124.45,
-                    "price_text": "124.45 €",
-                    "stock": "OUT_OF_STOCK",
-                    "url": "https://madridnortetcg.com/products/booster-box-eb03-heroines-edition-ingles-one-piece-tcg",
-                    "published_at": "2026-02-16T13:35:42+01:00",
-                    "language": "EN"
-                },
-                "https://madridnortetcg.com/products/sobre-eb03-heroines-edition-ingles-one-piece-tcg": {
-                    "store": "Madrid Norte TCG",
-                    "title": "Sobre EB-03 Heroines Edition Inglés – One Piece Card Game",
-                    "price": 5.95,
-                    "price_text": "5.95 €",
-                    "stock": "OUT_OF_STOCK",
-                    "url": "https://madridnortetcg.com/products/sobre-eb03-heroines-edition-ingles-one-piece-tcg",
-                    "published_at": "2026-02-16T13:35:23+01:00",
-                    "language": "EN"
-                },
                 "https://madridnortetcg.com/products/booster-box-op17-ingles-one-piece-tcg": {
                     "store": "Madrid Norte TCG",
                     "title": "Booster Box OP-17 Inglés – One Piece Card Game (24 Sobres)",
@@ -2133,36 +2113,6 @@
                     "stock": "OUT_OF_STOCK",
                     "url": "https://madridnortetcg.com/products/booster-box-op16-ingles-one-piece-tcg",
                     "published_at": "2026-02-13T09:02:50+01:00",
-                    "language": "EN"
-                },
-                "https://madridnortetcg.com/products/sobre-op13-carrying-on-his-will-ingles-one-piece-tcg": {
-                    "store": "Madrid Norte TCG",
-                    "title": "Sobre OP-13 Carrying On His Will Inglés – One Piece Card Game",
-                    "price": 5.95,
-                    "price_text": "5.95 €",
-                    "stock": "OUT_OF_STOCK",
-                    "url": "https://madridnortetcg.com/products/sobre-op13-carrying-on-his-will-ingles-one-piece-tcg",
-                    "published_at": "2026-01-19T08:06:50+01:00",
-                    "language": "EN"
-                },
-                "https://madridnortetcg.com/products/booster-box-op13-carrying-on-his-will-ingles-one-piece-tcg": {
-                    "store": "Madrid Norte TCG",
-                    "title": "Booster Box OP-13 Carrying On His Will Inglés – One Piece Card Game (24 Sobres)",
-                    "price": 116.95,
-                    "price_text": "116.95 €",
-                    "stock": "OUT_OF_STOCK",
-                    "url": "https://madridnortetcg.com/products/booster-box-op13-carrying-on-his-will-ingles-one-piece-tcg",
-                    "published_at": "2026-01-19T08:06:37+01:00",
-                    "language": "EN"
-                },
-                "https://madridnortetcg.com/products/starter-deck-st29-egghead-ingles-one-piece-tcg": {
-                    "store": "Madrid Norte TCG",
-                    "title": "Starter Deck ST-29 Egghead Inglés – One Piece Card Game",
-                    "price": 15.95,
-                    "price_text": "15.95 €",
-                    "stock": "OUT_OF_STOCK",
-                    "url": "https://madridnortetcg.com/products/starter-deck-st29-egghead-ingles-one-piece-tcg",
-                    "published_at": "2026-01-08T18:20:58+01:00",
                     "language": "EN"
                 },
                 "https://madridnortetcg.com/products/sobre-op14-the-azure-seas-seven-ingles-one-piece-tcg": {
