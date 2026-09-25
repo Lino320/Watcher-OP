@@ -8,7 +8,7 @@
                     "title": "PREVENTA – CAJA THE DOMI . . .",
                     "price": null,
                     "price_text": "Sin precio",
-                    "stock": "PREORDER",
+                    "stock": "OUT_OF_STOCK",
                     "url": "https://arte9.com/producto/caja-big-three-themes-one-piece-card-game-op-18/"
                 },
                 "https://arte9.com/producto/caja-heroines-edition-vol-2-one-piece-card-game-eb-05/": {
@@ -16,7 +16,7 @@
                     "title": "PREVENTA – CAJA HEROINES . . .",
                     "price": null,
                     "price_text": "Sin precio",
-                    "stock": "PREORDER",
+                    "stock": "OUT_OF_STOCK",
                     "url": "https://arte9.com/producto/caja-heroines-edition-vol-2-one-piece-card-game-eb-05/"
                 },
                 "https://arte9.com/producto/set-sail-deck-one-piece-sd-01/": {
@@ -3123,6 +3123,16 @@
         "Ninpo Store": {
             "initialized": true,
             "products": {
+                "https://ninpostore.com/products/sobre-op18-ingles-one-piece-card-game": {
+                    "store": "Ninpo Store",
+                    "title": "Sobre OP18 Inglés - One Piece Card Game",
+                    "price": 5.95,
+                    "price_text": "5.95 €",
+                    "stock": "OUT_OF_STOCK",
+                    "url": "https://ninpostore.com/products/sobre-op18-ingles-one-piece-card-game",
+                    "published_at": "2026-09-25T13:47:26+02:00",
+                    "language": "EN"
+                },
                 "https://ninpostore.com/products/illustration-box-ib-08-ingles-one-piece-card-game": {
                     "store": "Ninpo Store",
                     "title": "Illustration Box IB-08 Inglés - One Piece Card Game",
@@ -3156,8 +3166,8 @@
                 "https://ninpostore.com/products/sobre-op17-ingles-one-piece-card-game": {
                     "store": "Ninpo Store",
                     "title": "Sobre OP17 Inglés - One Piece Card Game",
-                    "price": 6.5,
-                    "price_text": "6.50 €",
+                    "price": 5.95,
+                    "price_text": "5.95 €",
                     "stock": "OUT_OF_STOCK",
                     "url": "https://ninpostore.com/products/sobre-op17-ingles-one-piece-card-game",
                     "published_at": "2026-07-15T09:31:52+02:00",
@@ -3245,9 +3255,9 @@
                 },
                 "https://ninpostore.com/products/toys-and-games-example-product-1": {
                     "store": "Ninpo Store",
-                    "title": "Booster Box Display OP17 (24 Sobres) Inglés - One Piece Card Game",
-                    "price": 149.95,
-                    "price_text": "149.95 €",
+                    "title": "Booster Box Display OP18 (24 Sobres) Inglés - One Piece Card Game",
+                    "price": 139.95,
+                    "price_text": "139.95 €",
                     "stock": "OUT_OF_STOCK",
                     "url": "https://ninpostore.com/products/toys-and-games-example-product-1",
                     "published_at": "2026-04-22T15:59:01+02:00",
