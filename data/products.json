@@ -2279,6 +2279,16 @@
         "Nova Ohara Cards": {
             "initialized": true,
             "products": {
+                "https://novaoharacards.com/products/one-piece-4th-anniversary-op17-treasure-campaign-sobre-promocional-jp": {
+                    "store": "Nova Ohara Cards",
+                    "title": "ONE PIECE 4TH ANNIVERSARY (OP17) TREASURE CAMPAIGN - SOBRE PROMOCIONAL (JP)",
+                    "price": 18.95,
+                    "price_text": "18.95 €",
+                    "stock": "AVAILABLE",
+                    "url": "https://novaoharacards.com/products/one-piece-4th-anniversary-op17-treasure-campaign-sobre-promocional-jp",
+                    "published_at": "2026-09-28T14:20:52+02:00",
+                    "language": "JP"
+                },
                 "https://novaoharacards.com/products/op-16-booster-box-one-piece-tcg": {
                     "store": "Nova Ohara Cards",
                     "title": "(RESERVA) OP-16 Booster Box – One Piece Card Game",
