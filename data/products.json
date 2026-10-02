@@ -3,6 +3,38 @@
         "Arte9": {
             "initialized": true,
             "products": {
+                "https://arte9.com/producto/preventa-gift-collection-heroines-edition-one-piece-cg-gd-2026/": {
+                    "store": "Arte9",
+                    "title": "PREVENTA GIFT COLLECTION ̵ . . .",
+                    "price": null,
+                    "price_text": "Sin precio",
+                    "stock": "PREORDER",
+                    "url": "https://arte9.com/producto/preventa-gift-collection-heroines-edition-one-piece-cg-gd-2026/"
+                },
+                "https://arte9.com/producto/preventa-live-action-edition-vol-2-baroque-works-premium-card-collection-one-piece-ccg/": {
+                    "store": "Arte9",
+                    "title": "PREVENTA – LIVE ACTION E . . .",
+                    "price": null,
+                    "price_text": "Sin precio",
+                    "stock": "PREORDER",
+                    "url": "https://arte9.com/producto/preventa-live-action-edition-vol-2-baroque-works-premium-card-collection-one-piece-ccg/"
+                },
+                "https://arte9.com/producto/preventa-live-action-edition-vol-2-straw-hat-crew-premium-card-collection-one-piece-ccg/": {
+                    "store": "Arte9",
+                    "title": "PREVENTA – LIVE ACTION E . . .",
+                    "price": null,
+                    "price_text": "Sin precio",
+                    "stock": "PREORDER",
+                    "url": "https://arte9.com/producto/preventa-live-action-edition-vol-2-straw-hat-crew-premium-card-collection-one-piece-ccg/"
+                },
+                "https://arte9.com/producto/preventa-best-selection-vol-7-premium-card-collection-one-piece-ccg/": {
+                    "store": "Arte9",
+                    "title": "PREVENTA – BEST SELECTIO . . .",
+                    "price": null,
+                    "price_text": "Sin precio",
+                    "stock": "PREORDER",
+                    "url": "https://arte9.com/producto/preventa-best-selection-vol-7-premium-card-collection-one-piece-ccg/"
+                },
                 "https://arte9.com/producto/caja-big-three-themes-one-piece-card-game-op-18/": {
                     "store": "Arte9",
                     "title": "PREVENTA – CAJA THE DOMI . . .",
@@ -11,6 +43,14 @@
                     "stock": "OUT_OF_STOCK",
                     "url": "https://arte9.com/producto/caja-big-three-themes-one-piece-card-game-op-18/"
                 },
+                "https://arte9.com/producto/sobre-the-dominance-of-god-one-piece-card-game-op-18/": {
+                    "store": "Arte9",
+                    "title": "SOBRE THE DOMINANCE OF GOD \b . . .",
+                    "price": null,
+                    "price_text": "Sin precio",
+                    "stock": "OUT_OF_STOCK",
+                    "url": "https://arte9.com/producto/sobre-the-dominance-of-god-one-piece-card-game-op-18/"
+                },
                 "https://arte9.com/producto/caja-heroines-edition-vol-2-one-piece-card-game-eb-05/": {
                     "store": "Arte9",
                     "title": "PREVENTA – CAJA HEROINES . . .",
@@ -18,6 +58,14 @@
                     "price_text": "Sin precio",
                     "stock": "OUT_OF_STOCK",
                     "url": "https://arte9.com/producto/caja-heroines-edition-vol-2-one-piece-card-game-eb-05/"
+                },
+                "https://arte9.com/producto/sobre-heroines-edition-vol-2-one-piece-card-game-eb-05/": {
+                    "store": "Arte9",
+                    "title": "SOBRE HEROINES EDITION VOL.2 & . . .",
+                    "price": null,
+                    "price_text": "Sin precio",
+                    "stock": "OUT_OF_STOCK",
+                    "url": "https://arte9.com/producto/sobre-heroines-edition-vol-2-one-piece-card-game-eb-05/"
                 },
                 "https://arte9.com/producto/set-sail-deck-one-piece-sd-01/": {
                     "store": "Arte9",
@@ -83,6 +131,38 @@
                     "stock": "PREORDER",
                     "url": "https://arte9.com/producto/red-starter-deck-one-piece-st-39/"
                 },
+                "https://arte9.com/producto/caja-the-worlds-strongest-warriors-one-piece-card-game-op-17/": {
+                    "store": "Arte9",
+                    "title": "CAJA THE WORLD’S STRONGE . . .",
+                    "price": null,
+                    "price_text": "Sin precio",
+                    "stock": "AVAILABLE",
+                    "url": "https://arte9.com/producto/caja-the-worlds-strongest-warriors-one-piece-card-game-op-17/"
+                },
+                "https://arte9.com/producto/sobre-the-worlds-strongest-warriors-one-piece-card-game-op-17/": {
+                    "store": "Arte9",
+                    "title": "SOBRE THE WORLD’S STRONG . . .",
+                    "price": null,
+                    "price_text": "Sin precio",
+                    "stock": "AVAILABLE",
+                    "url": "https://arte9.com/producto/sobre-the-worlds-strongest-warriors-one-piece-card-game-op-17/"
+                },
+                "https://arte9.com/producto/double-pack-set-vol-12-the-world-strongest-warriors/": {
+                    "store": "Arte9",
+                    "title": "DOUBLE PACK SET VOL.12 – . . .",
+                    "price": null,
+                    "price_text": "Sin precio",
+                    "stock": "OUT_OF_STOCK",
+                    "url": "https://arte9.com/producto/double-pack-set-vol-12-the-world-strongest-warriors/"
+                },
+                "https://arte9.com/producto/best-selection-vol-6-premium-card-collection-one-piece-ccg/": {
+                    "store": "Arte9",
+                    "title": "BEST SELECTION VOL 6 – P . . .",
+                    "price": null,
+                    "price_text": "Sin precio",
+                    "stock": "OUT_OF_STOCK",
+                    "url": "https://arte9.com/producto/best-selection-vol-6-premium-card-collection-one-piece-ccg/"
+                },
                 "https://arte9.com/producto/deck-set-6-one-piece-card-game/": {
                     "store": "Arte9",
                     "title": "DECK SET (6) – ONE PIECE . . .",
@@ -106,14 +186,6 @@
                     "price_text": "Sin precio",
                     "stock": "AVAILABLE",
                     "url": "https://arte9.com/producto/illustration-box-07-one-piece-card-game-vol-7/"
-                },
-                "https://arte9.com/producto/double-pack-set-vol-12-the-world-strongest-warriors/": {
-                    "store": "Arte9",
-                    "title": "DOUBLE PACK SET VOL.12 – . . .",
-                    "price": null,
-                    "price_text": "Sin precio",
-                    "stock": "OUT_OF_STOCK",
-                    "url": "https://arte9.com/producto/double-pack-set-vol-12-the-world-strongest-warriors/"
                 },
                 "https://arte9.com/producto/kid-starter-deck-one-piece-st-36/": {
                     "store": "Arte9",
@@ -163,14 +235,6 @@
                     "stock": "OUT_OF_STOCK",
                     "url": "https://arte9.com/producto/luffy-ace-starter-deck-one-piece-st-31/"
                 },
-                "https://arte9.com/producto/best-selection-vol-6-premium-card-collection-one-piece-ccg/": {
-                    "store": "Arte9",
-                    "title": "BEST SELECTION VOL 6 – P . . .",
-                    "price": null,
-                    "price_text": "Sin precio",
-                    "stock": "OUT_OF_STOCK",
-                    "url": "https://arte9.com/producto/best-selection-vol-6-premium-card-collection-one-piece-ccg/"
-                },
                 "https://arte9.com/producto/double-pack-set-vol-11-the-time-of-battle/": {
                     "store": "Arte9",
                     "title": "DOUBLE PACK SET VOL.11 – . . .",
@@ -178,22 +242,6 @@
                     "price_text": "Sin precio",
                     "stock": "OUT_OF_STOCK",
                     "url": "https://arte9.com/producto/double-pack-set-vol-11-the-time-of-battle/"
-                },
-                "https://arte9.com/producto/sobre-the-worlds-strongest-warriors-one-piece-card-game-op-17/": {
-                    "store": "Arte9",
-                    "title": "SOBRE THE WORLD’S STRONG . . .",
-                    "price": null,
-                    "price_text": "Sin precio",
-                    "stock": "OUT_OF_STOCK",
-                    "url": "https://arte9.com/producto/sobre-the-worlds-strongest-warriors-one-piece-card-game-op-17/"
-                },
-                "https://arte9.com/producto/caja-the-worlds-strongest-warriors-one-piece-card-game-op-17/": {
-                    "store": "Arte9",
-                    "title": "CAJA THE WORLD’S STRONGE . . .",
-                    "price": null,
-                    "price_text": "Sin precio",
-                    "stock": "OUT_OF_STOCK",
-                    "url": "https://arte9.com/producto/caja-the-worlds-strongest-warriors-one-piece-card-game-op-17/"
                 },
                 "https://arte9.com/producto/caja-de-sobres-the-time-of-battle-one-piece-card-game-op-16-2/": {
                     "store": "Arte9",
@@ -866,6 +914,14 @@
                     "price_text": "Sin precio",
                     "stock": "OUT_OF_STOCK",
                     "url": "https://arte9.com/producto/best-selection-vol-1-premium-card-collection-one-piece-ccg/"
+                },
+                "https://arte9.com/producto/live-action-edition-vol-1-premium-card-collection-one-piece-ccg/": {
+                    "store": "Arte9",
+                    "title": "LIVE ACTION EDITION VOL.1 R . . .",
+                    "price": null,
+                    "price_text": "Sin precio",
+                    "stock": "OUT_OF_STOCK",
+                    "url": "https://arte9.com/producto/live-action-edition-vol-1-premium-card-collection-one-piece-ccg/"
                 },
                 "https://arte9.com/producto/zoro-sanji-starter-deck-st012/": {
                     "store": "Arte9",
