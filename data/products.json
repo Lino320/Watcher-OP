@@ -8,7 +8,7 @@
                     "title": "PREVENTA GIFT COLLECTION ̵ . . .",
                     "price": null,
                     "price_text": "Sin precio",
-                    "stock": "PREORDER",
+                    "stock": "OUT_OF_STOCK",
                     "url": "https://arte9.com/producto/preventa-gift-collection-heroines-edition-one-piece-cg-gd-2026/"
                 },
                 "https://arte9.com/producto/preventa-live-action-edition-vol-2-baroque-works-premium-card-collection-one-piece-ccg/": {
@@ -1965,7 +1965,7 @@
                     "title": "Funko Pop! Jumbo One Piece – Tony Tony Chopper #2347 25 cm",
                     "price": 39.95,
                     "price_text": "39.95 €",
-                    "stock": "AVAILABLE",
+                    "stock": "OUT_OF_STOCK",
                     "url": "https://madridnortetcg.com/products/funko-pop-tony-tony-chopper-2347-one-piece-jumbo-25cm",
                     "published_at": "2026-09-01T11:51:12+02:00",
                     "language": "EN"
