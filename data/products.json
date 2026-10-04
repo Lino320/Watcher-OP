@@ -136,7 +136,7 @@
                     "title": "CAJA THE WORLD’S STRONGE . . .",
                     "price": null,
                     "price_text": "Sin precio",
-                    "stock": "AVAILABLE",
+                    "stock": "OUT_OF_STOCK",
                     "url": "https://arte9.com/producto/caja-the-worlds-strongest-warriors-one-piece-card-game-op-17/"
                 },
                 "https://arte9.com/producto/sobre-the-worlds-strongest-warriors-one-piece-card-game-op-17/": {
@@ -2012,7 +2012,7 @@
                 },
                 "https://madridnortetcg.com/products/one-piece-ace-sabo-luffy-premium-card-collection-en": {
                     "store": "Madrid Norte TCG",
-                    "title": "Premium Card Collection Best Selection: Ace & Sabo & Luffy - One Piece Card Game (EN)",
+                    "title": "Premium Card Collection Best Selection: Ace & Sabo & Luffy – One Piece TCG (EN)",
                     "price": 39.95,
                     "price_text": "39.95 €",
                     "stock": "PREORDER",
@@ -2022,7 +2022,7 @@
                 },
                 "https://madridnortetcg.com/products/one-piece-monkey-d-luffy-p-159-29th-anniversary-en": {
                     "store": "Madrid Norte TCG",
-                    "title": "Carta Monkey.D.Luffy P-159 29th Anniversary Edition - One Piece Card Game (EN)",
+                    "title": "Carta Monkey.D.Luffy P-159 29th Anniversary Edition – One Piece TCG (EN)",
                     "price": 49.99,
                     "price_text": "49.99 €",
                     "stock": "OUT_OF_STOCK",
@@ -2033,8 +2033,8 @@
                 "https://madridnortetcg.com/products/one-piece-st-36-yellow-eustass-kid-starter-deck-en": {
                     "store": "Madrid Norte TCG",
                     "title": "Starter Deck ST-36 Yellow Eustass \"Captain\" Kid - One Piece Card Game (EN)",
-                    "price": 25.0,
-                    "price_text": "25.00 €",
+                    "price": 23.75,
+                    "price_text": "23.75 €",
                     "stock": "AVAILABLE",
                     "url": "https://madridnortetcg.com/products/one-piece-st-36-yellow-eustass-kid-starter-deck-en",
                     "published_at": "2026-08-11T12:02:51+02:00",
@@ -2043,8 +2043,8 @@
                 "https://madridnortetcg.com/products/one-piece-st-35-red-black-sabo-starter-deck-en": {
                     "store": "Madrid Norte TCG",
                     "title": "Starter Deck ST-35 Red/Black Sabo - One Piece Card Game (EN)",
-                    "price": 25.0,
-                    "price_text": "25.00 €",
+                    "price": 23.75,
+                    "price_text": "23.75 €",
                     "stock": "AVAILABLE",
                     "url": "https://madridnortetcg.com/products/one-piece-st-35-red-black-sabo-starter-deck-en",
                     "published_at": "2026-08-11T11:59:42+02:00",
@@ -2053,8 +2053,8 @@
                 "https://madridnortetcg.com/products/one-piece-st-34-charlotte-katakuri-starter-deck-en": {
                     "store": "Madrid Norte TCG",
                     "title": "Starter Deck ST-34 Purple Charlotte Katakuri - One Piece Card Game (EN)",
-                    "price": 25.0,
-                    "price_text": "25.00 €",
+                    "price": 23.75,
+                    "price_text": "23.75 €",
                     "stock": "PREORDER",
                     "url": "https://madridnortetcg.com/products/one-piece-st-34-charlotte-katakuri-starter-deck-en",
                     "published_at": "2026-08-11T11:57:15+02:00",
@@ -2063,8 +2063,8 @@
                 "https://madridnortetcg.com/products/one-piece-st-33-blue-kuzan-starter-deck-en": {
                     "store": "Madrid Norte TCG",
                     "title": "Starter Deck ST-33 Blue Kuzan - One Piece Card Game (EN)",
-                    "price": 25.0,
-                    "price_text": "25.00 €",
+                    "price": 23.75,
+                    "price_text": "23.75 €",
                     "stock": "AVAILABLE",
                     "url": "https://madridnortetcg.com/products/one-piece-st-33-blue-kuzan-starter-deck-en",
                     "published_at": "2026-08-11T11:55:48+02:00",
@@ -2072,7 +2072,7 @@
                 },
                 "https://madridnortetcg.com/products/premium-card-collection-best-selection-vol-7-ingles-one-piece-card-game": {
                     "store": "Madrid Norte TCG",
-                    "title": "Premium Card Collection Best Selection Vol. 7 Inglés - One Piece Card Game",
+                    "title": "Premium Card Collection Best Selection Vol. 7 – (EN) One Piece TCG",
                     "price": 44.45,
                     "price_text": "44.45 €",
                     "stock": "OUT_OF_STOCK",
@@ -2082,7 +2082,7 @@
                 },
                 "https://madridnortetcg.com/products/illustration-box-ib-10-ingles-one-piece-card-game": {
                     "store": "Madrid Norte TCG",
-                    "title": "Illustration Box IB-10 Inglés - One Piece Card Game",
+                    "title": "Illustration Box IB-10 – (EN) One Piece TCG",
                     "price": 29.95,
                     "price_text": "29.95 €",
                     "stock": "PREORDER",
@@ -2092,7 +2092,7 @@
                 },
                 "https://madridnortetcg.com/products/illustration-box-ib-09-ingles-one-piece-card-game": {
                     "store": "Madrid Norte TCG",
-                    "title": "Illustration Box IB-09 Inglés - One Piece Card Game",
+                    "title": "Illustration Box IB-09 – (EN) One Piece TCG",
                     "price": 29.95,
                     "price_text": "29.95 €",
                     "stock": "PREORDER",
@@ -2102,7 +2102,7 @@
                 },
                 "https://madridnortetcg.com/products/premium-card-collection-live-action-vol-2-straw-hat-crew-ingles-one-piece-card-game": {
                     "store": "Madrid Norte TCG",
-                    "title": "Premium Card Collection Live Action Vol.2 Straw Hat Crew Inglés - One Piece Card Game",
+                    "title": "Premium Card Collection Live Action Vol.2 Straw Hat Crew – (EN) One Piece TCG",
                     "price": 49.45,
                     "price_text": "49.45 €",
                     "stock": "PREORDER",
@@ -2112,7 +2112,7 @@
                 },
                 "https://madridnortetcg.com/products/premium-card-collection-live-action-vol-2-baroque-works-ingles-one-piece-card-game": {
                     "store": "Madrid Norte TCG",
-                    "title": "Premium Card Collection Live Action Vol.2 Baroque Works Inglés - One Piece Card Game",
+                    "title": "Premium Card Collection Live Action Vol.2 Baroque Works – (EN) One Piece TCG",
                     "price": 49.45,
                     "price_text": "49.45 €",
                     "stock": "PREORDER",
@@ -2122,7 +2122,7 @@
                 },
                 "https://madridnortetcg.com/products/double-pack-set-dp-13-ingles-one-piece-card-game": {
                     "store": "Madrid Norte TCG",
-                    "title": "Double Pack Set DP-13 Inglés - One Piece Card Game",
+                    "title": "Double Pack Set DP-13 – (EN) One Piece TCG",
                     "price": 21.49,
                     "price_text": "21.49 €",
                     "stock": "PREORDER",
@@ -2132,7 +2132,7 @@
                 },
                 "https://madridnortetcg.com/products/booster-box-op-18-ingles-one-piece-card-game": {
                     "store": "Madrid Norte TCG",
-                    "title": "Booster Box OP-18 Inglés - One Piece Card Game",
+                    "title": "Booster Box OP-18 – (EN) One Piece TCG",
                     "price": 125.45,
                     "price_text": "125.45 €",
                     "stock": "PREORDER",
@@ -2142,7 +2142,7 @@
                 },
                 "https://madridnortetcg.com/products/booster-box-display-eb-05-ingles-one-piece-card-game": {
                     "store": "Madrid Norte TCG",
-                    "title": "Booster Box Display EB-05 Inglés - One Piece Card Game",
+                    "title": "Booster Box EB-05 – (EN) One Piece TCG",
                     "price": 145.45,
                     "price_text": "145.45 €",
                     "stock": "PREORDER",
@@ -2152,7 +2152,7 @@
                 },
                 "https://madridnortetcg.com/products/heroines-special-set-en-one-piece-card-game": {
                     "store": "Madrid Norte TCG",
-                    "title": "Heroines Special Set EN – One Piece Card Game",
+                    "title": "Heroines Special Set EN – One Piece TCG",
                     "price": 75.95,
                     "price_text": "75.95 €",
                     "stock": "PREORDER",
@@ -2162,7 +2162,7 @@
                 },
                 "https://madridnortetcg.com/products/booster-box-op17-ingles-one-piece-tcg": {
                     "store": "Madrid Norte TCG",
-                    "title": "Booster Box OP-17 Inglés – One Piece Card Game (24 Sobres)",
+                    "title": "Booster Box OP-17 – (EN) One Piece TCG (24 Sobres)",
                     "price": 149.45,
                     "price_text": "149.45 €",
                     "stock": "PREORDER",
@@ -2172,7 +2172,7 @@
                 },
                 "https://madridnortetcg.com/products/booster-box-op16-ingles-one-piece-tcg": {
                     "store": "Madrid Norte TCG",
-                    "title": "Booster Box OP-16 Inglés – One Piece Card Game (24 Sobres)",
+                    "title": "Booster Box OP-16 – (EN) One Piece TCG (24 Sobres)",
                     "price": 185.0,
                     "price_text": "185.00 €",
                     "stock": "OUT_OF_STOCK",
@@ -2183,8 +2183,8 @@
                 "https://madridnortetcg.com/products/sobre-op14-the-azure-seas-seven-ingles-one-piece-tcg": {
                     "store": "Madrid Norte TCG",
                     "title": "SobrSobre OP-14 The Azure Sea’s Seven Inglés – One Piece Card Game",
-                    "price": 7.95,
-                    "price_text": "7.95 €",
+                    "price": 7.16,
+                    "price_text": "7.16 €",
                     "stock": "AVAILABLE",
                     "url": "https://madridnortetcg.com/products/sobre-op14-the-azure-seas-seven-ingles-one-piece-tcg",
                     "published_at": "2026-01-08T18:12:17+01:00",
@@ -2192,7 +2192,7 @@
                 },
                 "https://madridnortetcg.com/products/booster-box-op14-the-azure-seas-seven-ingles-one-piece-tcg": {
                     "store": "Madrid Norte TCG",
-                    "title": "Booster Box OP-14 The Azure Sea’s Seven Inglés – One Piece Card Game (24 Sobres)",
+                    "title": "Booster Box OP-14 The Azure Sea’s Seven – (EN) One Piece TCG (24 Sobres)",
                     "price": 159.45,
                     "price_text": "159.45 €",
                     "stock": "OUT_OF_STOCK",
