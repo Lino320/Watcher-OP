@@ -520,7 +520,7 @@
                     "title": "PORTGAS D. ACE & EDWARD N . . .",
                     "price": null,
                     "price_text": "Sin precio",
-                    "stock": "OUT_OF_STOCK",
+                    "stock": "AVAILABLE",
                     "url": "https://arte9.com/producto/portgas-d-ace-edward-newgate-starter-deck-one-piece-st-22/"
                 },
                 "https://arte9.com/producto/double-pack-set-vol-08-legacy-of-the-master/": {
@@ -1436,15 +1436,6 @@
         "Padis": {
             "initialized": true,
             "products": {
-                "https://www.padis-store.com/44613-one-piece-the-worlds-strongest-warriors-op17-sobre-12-cartas-ingles.html": {
-                    "store": "Padis",
-                    "title": "One Piece - The World’s Strongest Warriors OP17: Sobre (12 Cartas) Inglés",
-                    "price": null,
-                    "price_text": "Sin precio",
-                    "stock": "AVAILABLE",
-                    "url": "https://www.padis-store.com/44613-one-piece-the-worlds-strongest-warriors-op17-sobre-12-cartas-ingles.html",
-                    "published_at": null
-                },
                 "https://www.padis-store.com/44388-reserva-one-piece-st44-starter-deck-ingles.html": {
                     "store": "Padis",
                     "title": "RESERVA One Piece - ST44 Starter Deck (Inglés)",
