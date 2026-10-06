@@ -1490,15 +1490,6 @@
                     "url": "https://www.padis-store.com/44382-reserva-one-piece-st39-starter-deck-ingles.html",
                     "published_at": null
                 },
-                "https://www.padis-store.com/43579-reserva-one-piece-set-sail-deck-set-sd01-ingles.html": {
-                    "store": "Padis",
-                    "title": "One Piece - Set Sail Deck Set SD01 (Inglés)",
-                    "price": null,
-                    "price_text": "Sin precio",
-                    "stock": "AVAILABLE",
-                    "url": "https://www.padis-store.com/43579-reserva-one-piece-set-sail-deck-set-sd01-ingles.html",
-                    "published_at": null
-                },
                 "https://www.padis-store.com/43475-one-piece-adventure-on-the-island-of-the-gods-op15-sobre-12-ingles.html": {
                     "store": "Padis",
                     "title": "One Piece - Adventure on Kami's Islands OP15: Sobre (12 Cartas) Inglés",
@@ -3162,6 +3153,26 @@
         "Ninpo Store": {
             "initialized": true,
             "products": {
+                "https://ninpostore.com/products/booster-box-display-eb05-24-sobres-ingles-one-piece-card-game": {
+                    "store": "Ninpo Store",
+                    "title": "Booster Box Display EB05 (24 Sobres) Inglés - One Piece Card Game",
+                    "price": 139.95,
+                    "price_text": "139.95 €",
+                    "stock": "OUT_OF_STOCK",
+                    "url": "https://ninpostore.com/products/booster-box-display-eb05-24-sobres-ingles-one-piece-card-game",
+                    "published_at": "2026-10-06T00:20:51+02:00",
+                    "language": "EN"
+                },
+                "https://ninpostore.com/products/sobre-eb05-ingles-one-piece-card-game": {
+                    "store": "Ninpo Store",
+                    "title": "Sobre EB05 Inglés - One Piece Card Game",
+                    "price": 5.95,
+                    "price_text": "5.95 €",
+                    "stock": "OUT_OF_STOCK",
+                    "url": "https://ninpostore.com/products/sobre-eb05-ingles-one-piece-card-game",
+                    "published_at": "2026-10-06T00:19:21+02:00",
+                    "language": "EN"
+                },
                 "https://ninpostore.com/products/sobre-op18-ingles-one-piece-card-game": {
                     "store": "Ninpo Store",
                     "title": "Sobre OP18 Inglés - One Piece Card Game",
