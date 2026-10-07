@@ -144,7 +144,7 @@
                     "title": "SOBRE THE WORLD’S STRONG . . .",
                     "price": null,
                     "price_text": "Sin precio",
-                    "stock": "AVAILABLE",
+                    "stock": "OUT_OF_STOCK",
                     "url": "https://arte9.com/producto/sobre-the-worlds-strongest-warriors-one-piece-card-game-op-17/"
                 },
                 "https://arte9.com/producto/double-pack-set-vol-12-the-world-strongest-warriors/": {
@@ -1504,7 +1504,7 @@
                     "title": "One Piece - Adventure on Kami's Islands OP15: Sobre (12 Cartas) Inglés",
                     "price": null,
                     "price_text": "Sin precio",
-                    "stock": "AVAILABLE",
+                    "stock": "OUT_OF_STOCK",
                     "url": "https://www.padis-store.com/43475-one-piece-adventure-on-the-island-of-the-gods-op15-sobre-12-ingles.html",
                     "published_at": null
                 },
