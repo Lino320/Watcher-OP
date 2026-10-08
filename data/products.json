@@ -1436,6 +1436,15 @@
         "Padis": {
             "initialized": true,
             "products": {
+                "https://www.padis-store.com/44613-one-piece-the-worlds-strongest-warriors-op17-sobre-12-cartas-ingles.html": {
+                    "store": "Padis",
+                    "title": "One Piece - The World’s Strongest Warriors OP17: Sobre (12 Cartas) Inglés",
+                    "price": null,
+                    "price_text": "Sin precio",
+                    "stock": "AVAILABLE",
+                    "url": "https://www.padis-store.com/44613-one-piece-the-worlds-strongest-warriors-op17-sobre-12-cartas-ingles.html",
+                    "published_at": null
+                },
                 "https://www.padis-store.com/44388-reserva-one-piece-st44-starter-deck-ingles.html": {
                     "store": "Padis",
                     "title": "RESERVA One Piece - ST44 Starter Deck (Inglés)",
@@ -1499,6 +1508,15 @@
                     "url": "https://www.padis-store.com/43579-reserva-one-piece-set-sail-deck-set-sd01-ingles.html",
                     "published_at": null
                 },
+                "https://www.padis-store.com/43475-one-piece-adventure-on-the-island-of-the-gods-op15-sobre-12-ingles.html": {
+                    "store": "Padis",
+                    "title": "One Piece - Adventure on Kami's Islands OP15: Sobre (12 Cartas) Inglés",
+                    "price": null,
+                    "price_text": "Sin precio",
+                    "stock": "AVAILABLE",
+                    "url": "https://www.padis-store.com/43475-one-piece-adventure-on-the-island-of-the-gods-op15-sobre-12-ingles.html",
+                    "published_at": null
+                },
                 "https://www.padis-store.com/43270-one-piece-tcg-special-goods-set-former-four-emperors.html": {
                     "store": "Padis",
                     "title": "One Piece - Special Goods Set - Former Four Emperors (Ingles)",
@@ -1515,6 +1533,15 @@
                     "price_text": "Sin precio",
                     "stock": "AVAILABLE",
                     "url": "https://www.padis-store.com/43155-one-piece-premium-card-collection-best-selection-vol6-ingles.html",
+                    "published_at": null
+                },
+                "https://www.padis-store.com/43057-reserva-one-piece-the-worlds-strongest-warriors-op17-caja-de-sobres-24-ingles.html": {
+                    "store": "Padis",
+                    "title": "One Piece - The World’s Strongest Warriors OP17: Caja de Sobres (24) Inglés",
+                    "price": null,
+                    "price_text": "Sin precio",
+                    "stock": "AVAILABLE",
+                    "url": "https://www.padis-store.com/43057-reserva-one-piece-the-worlds-strongest-warriors-op17-caja-de-sobres-24-ingles.html",
                     "published_at": null
                 },
                 "https://www.padis-store.com/42882-one-piece-illustration-box-ib08-ingles.html": {
@@ -1587,6 +1614,15 @@
                     "price_text": "Sin precio",
                     "stock": "AVAILABLE",
                     "url": "https://www.padis-store.com/42631-reserva-one-piece-st31-starter-deck-ingles.html",
+                    "published_at": null
+                },
+                "https://www.padis-store.com/42018-one-piece-op15-caja-de-sobres-24-ingles.html": {
+                    "store": "Padis",
+                    "title": "One Piece - Adventure on Kami's Islands OP15: Caja de Sobres (24) Inglés",
+                    "price": null,
+                    "price_text": "Sin precio",
+                    "stock": "AVAILABLE",
+                    "url": "https://www.padis-store.com/42018-one-piece-op15-caja-de-sobres-24-ingles.html",
                     "published_at": null
                 },
                 "https://www.padis-store.com/38750-one-piece-sound-loader-volume-2.html": {
@@ -3157,8 +3193,8 @@
                 "https://ninpostore.com/products/sobre-eb05-ingles-one-piece-card-game": {
                     "store": "Ninpo Store",
                     "title": "Sobre EB05 Inglés - One Piece Card Game",
-                    "price": 5.95,
-                    "price_text": "5.95 €",
+                    "price": 6.0,
+                    "price_text": "6.00 €",
                     "stock": "OUT_OF_STOCK",
                     "url": "https://ninpostore.com/products/sobre-eb05-ingles-one-piece-card-game",
                     "published_at": "2026-10-06T00:19:21+02:00",
@@ -3167,8 +3203,8 @@
                 "https://ninpostore.com/products/sobre-op18-ingles-one-piece-card-game": {
                     "store": "Ninpo Store",
                     "title": "Sobre OP18 Inglés - One Piece Card Game",
-                    "price": 5.95,
-                    "price_text": "5.95 €",
+                    "price": 6.0,
+                    "price_text": "6.00 €",
                     "stock": "OUT_OF_STOCK",
                     "url": "https://ninpostore.com/products/sobre-op18-ingles-one-piece-card-game",
                     "published_at": "2026-09-25T13:47:26+02:00",
@@ -3207,8 +3243,8 @@
                 "https://ninpostore.com/products/sobre-op17-ingles-one-piece-card-game": {
                     "store": "Ninpo Store",
                     "title": "Sobre OP17 Inglés - One Piece Card Game",
-                    "price": 5.95,
-                    "price_text": "5.95 €",
+                    "price": 6.0,
+                    "price_text": "6.00 €",
                     "stock": "OUT_OF_STOCK",
                     "url": "https://ninpostore.com/products/sobre-op17-ingles-one-piece-card-game",
                     "published_at": "2026-07-15T09:31:52+02:00",
