@@ -3180,6 +3180,16 @@
         "Ninpo Store": {
             "initialized": true,
             "products": {
+                "https://ninpostore.com/products/mini-case-set-display-vol-3-ts-03-ingles-one-piece": {
+                    "store": "Ninpo Store",
+                    "title": "Mini Case Set Display Vol.3 TS-03 Inglés - One Piece",
+                    "price": 17.95,
+                    "price_text": "17.95 €",
+                    "stock": "OUT_OF_STOCK",
+                    "url": "https://ninpostore.com/products/mini-case-set-display-vol-3-ts-03-ingles-one-piece",
+                    "published_at": "2026-10-09T19:16:07+02:00",
+                    "language": "EN"
+                },
                 "https://ninpostore.com/products/gift-collection-one-piece-heroines-ingles-st-02-one-piece-card-game": {
                     "store": "Ninpo Store",
                     "title": "Gift Collection One Piece Heroines Inglés ST-02 - One Piece Card Game",
@@ -3365,6 +3375,26 @@
         "Three Stones Games": {
             "initialized": true,
             "products": {
+                "https://threestonesgames.com/products/one-piece-premium-card-collection-day-24": {
+                    "store": "Three Stones Games",
+                    "title": "ONE PIECE Card Game Premium Card Collection – One Piece Day '24",
+                    "price": 69.95,
+                    "price_text": "69.95 €",
+                    "stock": "AVAILABLE",
+                    "url": "https://threestonesgames.com/products/one-piece-premium-card-collection-day-24",
+                    "published_at": null,
+                    "language": "EN"
+                },
+                "https://threestonesgames.com/products/one-piece-premium-card-collection-6-assort-vol-1": {
+                    "store": "Three Stones Games",
+                    "title": "ONE PIECE Card Game Premium Card Collection – 6 assort vol.1",
+                    "price": 84.95,
+                    "price_text": "84.95 €",
+                    "stock": "AVAILABLE",
+                    "url": "https://threestonesgames.com/products/one-piece-premium-card-collection-6-assort-vol-1",
+                    "published_at": null,
+                    "language": "EN"
+                },
                 "https://threestonesgames.com/products/deck-set-sd-01-ingles-one-piece-card-game": {
                     "store": "Three Stones Games",
                     "title": "Deck Set SD-01 Inglés - One Piece Card Game",
@@ -3432,16 +3462,6 @@
                     "price_text": "14.35 €",
                     "stock": "AVAILABLE",
                     "url": "https://threestonesgames.com/products/starter-deck-3d2y-one-piece-card-game-st-14",
-                    "published_at": null,
-                    "language": "EN"
-                },
-                "https://threestonesgames.com/products/one-piece-card-game-st-36-starter-deck": {
-                    "store": "Three Stones Games",
-                    "title": "One Piece Card Game ST-36 Starter Deck",
-                    "price": 14.95,
-                    "price_text": "14.95 €",
-                    "stock": "UNKNOWN",
-                    "url": "https://threestonesgames.com/products/one-piece-card-game-st-36-starter-deck",
                     "published_at": null,
                     "language": "EN"
                 }
