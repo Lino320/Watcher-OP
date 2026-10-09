@@ -3180,6 +3180,16 @@
         "Ninpo Store": {
             "initialized": true,
             "products": {
+                "https://ninpostore.com/products/gift-collection-one-piece-heroines-ingles-st-02-one-piece-card-game": {
+                    "store": "Ninpo Store",
+                    "title": "Gift Collection One Piece Heroines Inglés ST-02 - One Piece Card Game",
+                    "price": 79.95,
+                    "price_text": "79.95 €",
+                    "stock": "OUT_OF_STOCK",
+                    "url": "https://ninpostore.com/products/gift-collection-one-piece-heroines-ingles-st-02-one-piece-card-game",
+                    "published_at": "2026-10-09T19:01:06+02:00",
+                    "language": "EN"
+                },
                 "https://ninpostore.com/products/booster-box-display-eb05-24-sobres-ingles-one-piece-card-game": {
                     "store": "Ninpo Store",
                     "title": "Booster Box Display EB05 (24 Sobres) Inglés - One Piece Card Game",
