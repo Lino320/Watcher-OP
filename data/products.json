@@ -3,6 +3,22 @@
         "Arte9": {
             "initialized": true,
             "products": {
+                "https://arte9.com/producto/3rd-anniversary-set-chinese-version-one-piece-card-game-ingles/": {
+                    "store": "Arte9",
+                    "title": "3RD ANNIVERSARY SET CHINESE VE . . .",
+                    "price": null,
+                    "price_text": "Sin precio",
+                    "stock": "OUT_OF_STOCK",
+                    "url": "https://arte9.com/producto/3rd-anniversary-set-chinese-version-one-piece-card-game-ingles/"
+                },
+                "https://arte9.com/producto/4th-anniversary-set-japanese-version-one-piece-card-game-ingles/": {
+                    "store": "Arte9",
+                    "title": "4TH ANNIVERSARY SET JAPANESE V . . .",
+                    "price": null,
+                    "price_text": "Sin precio",
+                    "stock": "OUT_OF_STOCK",
+                    "url": "https://arte9.com/producto/4th-anniversary-set-japanese-version-one-piece-card-game-ingles/"
+                },
                 "https://arte9.com/producto/preventa-gift-collection-heroines-edition-one-piece-cg-gd-2026/": {
                     "store": "Arte9",
                     "title": "PREVENTA GIFT COLLECTION ̵ . . .",
@@ -2163,9 +2179,9 @@
                 "https://madridnortetcg.com/products/booster-box-op16-ingles-one-piece-tcg": {
                     "store": "Madrid Norte TCG",
                     "title": "Booster Box OP-16 – (EN) One Piece TCG (24 Sobres)",
-                    "price": 185.0,
-                    "price_text": "185.00 €",
-                    "stock": "OUT_OF_STOCK",
+                    "price": 195.0,
+                    "price_text": "195.00 €",
+                    "stock": "AVAILABLE",
                     "url": "https://madridnortetcg.com/products/booster-box-op16-ingles-one-piece-tcg",
                     "published_at": "2026-02-13T09:02:50+01:00",
                     "language": "EN"
