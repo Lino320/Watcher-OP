@@ -1623,15 +1623,6 @@
                     "url": "https://www.padis-store.com/42632-reserva-one-piece-st32-starter-deck-ingles.html",
                     "published_at": null
                 },
-                "https://www.padis-store.com/42631-reserva-one-piece-st31-starter-deck-ingles.html": {
-                    "store": "Padis",
-                    "title": "One Piece - Monkey D. Luffy Starter Deck ST31 (Inglés)",
-                    "price": null,
-                    "price_text": "Sin precio",
-                    "stock": "AVAILABLE",
-                    "url": "https://www.padis-store.com/42631-reserva-one-piece-st31-starter-deck-ingles.html",
-                    "published_at": null
-                },
                 "https://www.padis-store.com/42018-one-piece-op15-caja-de-sobres-24-ingles.html": {
                     "store": "Padis",
                     "title": "One Piece - Adventure on Kami's Islands OP15: Caja de Sobres (24) Inglés",
@@ -3216,26 +3207,6 @@
                     "published_at": "2026-10-06T00:20:51+02:00",
                     "language": "EN"
                 },
-                "https://ninpostore.com/products/sobre-eb05-ingles-one-piece-card-game": {
-                    "store": "Ninpo Store",
-                    "title": "Sobre EB05 Inglés - One Piece Card Game",
-                    "price": 6.0,
-                    "price_text": "6.00 €",
-                    "stock": "OUT_OF_STOCK",
-                    "url": "https://ninpostore.com/products/sobre-eb05-ingles-one-piece-card-game",
-                    "published_at": "2026-10-06T00:19:21+02:00",
-                    "language": "EN"
-                },
-                "https://ninpostore.com/products/sobre-op18-ingles-one-piece-card-game": {
-                    "store": "Ninpo Store",
-                    "title": "Sobre OP18 Inglés - One Piece Card Game",
-                    "price": 6.0,
-                    "price_text": "6.00 €",
-                    "stock": "OUT_OF_STOCK",
-                    "url": "https://ninpostore.com/products/sobre-op18-ingles-one-piece-card-game",
-                    "published_at": "2026-09-25T13:47:26+02:00",
-                    "language": "EN"
-                },
                 "https://ninpostore.com/products/illustration-box-ib-08-ingles-one-piece-card-game": {
                     "store": "Ninpo Store",
                     "title": "Illustration Box IB-08 Inglés - One Piece Card Game",
@@ -3254,26 +3225,6 @@
                     "stock": "OUT_OF_STOCK",
                     "url": "https://ninpostore.com/products/illustration-box-ib-07-ingles-one-piece-card-game",
                     "published_at": "2026-08-04T13:11:51+02:00",
-                    "language": "EN"
-                },
-                "https://ninpostore.com/products/sobre-op16-ingles-one-piece-card-game": {
-                    "store": "Ninpo Store",
-                    "title": "Sobre OP16 Inglés - One Piece Card Game",
-                    "price": 5.95,
-                    "price_text": "5.95 €",
-                    "stock": "OUT_OF_STOCK",
-                    "url": "https://ninpostore.com/products/sobre-op16-ingles-one-piece-card-game",
-                    "published_at": "2026-07-16T07:57:15+02:00",
-                    "language": "EN"
-                },
-                "https://ninpostore.com/products/sobre-op17-ingles-one-piece-card-game": {
-                    "store": "Ninpo Store",
-                    "title": "Sobre OP17 Inglés - One Piece Card Game",
-                    "price": 6.0,
-                    "price_text": "6.00 €",
-                    "stock": "OUT_OF_STOCK",
-                    "url": "https://ninpostore.com/products/sobre-op17-ingles-one-piece-card-game",
-                    "published_at": "2026-07-15T09:31:52+02:00",
                     "language": "EN"
                 },
                 "https://ninpostore.com/products/one-piece-card-game-english-version-3rd-anniversary-set": {
