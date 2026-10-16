@@ -3186,6 +3186,26 @@
         "Ninpo Store": {
             "initialized": true,
             "products": {
+                "https://ninpostore.com/products/starter-deck-display-st38-ingles-one-piece": {
+                    "store": "Ninpo Store",
+                    "title": "Starter Deck Display ST38 Inglés - One Piece",
+                    "price": 19.95,
+                    "price_text": "19.95 €",
+                    "stock": "OUT_OF_STOCK",
+                    "url": "https://ninpostore.com/products/starter-deck-display-st38-ingles-one-piece",
+                    "published_at": "2026-10-16T12:13:07+02:00",
+                    "language": "EN"
+                },
+                "https://ninpostore.com/products/starter-deck-display-st37-ingles-one-piece": {
+                    "store": "Ninpo Store",
+                    "title": "Starter Deck Display ST37 Inglés - One Piece",
+                    "price": 19.95,
+                    "price_text": "19.95 €",
+                    "stock": "OUT_OF_STOCK",
+                    "url": "https://ninpostore.com/products/starter-deck-display-st37-ingles-one-piece",
+                    "published_at": "2026-10-16T11:59:00+02:00",
+                    "language": "EN"
+                },
                 "https://ninpostore.com/products/mini-case-set-display-vol-3-ts-03-ingles-one-piece": {
                     "store": "Ninpo Store",
                     "title": "Mini Case Set Display Vol.3 TS-03 Inglés - One Piece",
