@@ -152,7 +152,7 @@
                     "title": "CAJA THE WORLD’S STRONGE . . .",
                     "price": null,
                     "price_text": "Sin precio",
-                    "stock": "AVAILABLE",
+                    "stock": "OUT_OF_STOCK",
                     "url": "https://arte9.com/producto/caja-the-worlds-strongest-warriors-one-piece-card-game-op-17/"
                 },
                 "https://arte9.com/producto/sobre-the-worlds-strongest-warriors-one-piece-card-game-op-17/": {
@@ -184,7 +184,7 @@
                     "title": "DECK SET (6) – ONE PIECE . . .",
                     "price": null,
                     "price_text": "Sin precio",
-                    "stock": "AVAILABLE",
+                    "stock": "OUT_OF_STOCK",
                     "url": "https://arte9.com/producto/deck-set-6-one-piece-card-game/"
                 },
                 "https://arte9.com/producto/illustration-box-08-one-piece-card-game-vol-8/": {
@@ -192,7 +192,7 @@
                     "title": "ILLUSTRATION BOX #08 – O . . .",
                     "price": null,
                     "price_text": "Sin precio",
-                    "stock": "OUT_OF_STOCK",
+                    "stock": "AVAILABLE",
                     "url": "https://arte9.com/producto/illustration-box-08-one-piece-card-game-vol-8/"
                 },
                 "https://arte9.com/producto/illustration-box-07-one-piece-card-game-vol-7/": {
@@ -200,7 +200,7 @@
                     "title": "ILLUSTRATION BOX #07 – O . . .",
                     "price": null,
                     "price_text": "Sin precio",
-                    "stock": "OUT_OF_STOCK",
+                    "stock": "AVAILABLE",
                     "url": "https://arte9.com/producto/illustration-box-07-one-piece-card-game-vol-7/"
                 },
                 "https://arte9.com/producto/kid-starter-deck-one-piece-st-36/": {
