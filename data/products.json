@@ -3638,26 +3638,6 @@
         "TCG Family": {
             "initialized": true,
             "products": {
-                "https://tcg-family.com/products/one-piece-card-game-premium-card-collection-best-selection-ace-sabo-luffy-en": {
-                    "store": "TCG Family",
-                    "title": "ONE PIECE CARD GAME Premium Card Collection Best Selection -Ace & Sabo & Luffy - EN",
-                    "price": 49.99,
-                    "price_text": "49.99 €",
-                    "stock": "OUT_OF_STOCK",
-                    "url": "https://tcg-family.com/products/one-piece-card-game-premium-card-collection-best-selection-ace-sabo-luffy-en",
-                    "published_at": "2026-08-16T16:16:01+01:00",
-                    "language": "EN"
-                },
-                "https://tcg-family.com/products/monkey-d-luffy-p-159-v-1": {
-                    "store": "TCG Family",
-                    "title": "ONE PIECE CARD GAME Premium Card Collection -29th Anniversary Edition - EN",
-                    "price": 24.99,
-                    "price_text": "24.99 €",
-                    "stock": "OUT_OF_STOCK",
-                    "url": "https://tcg-family.com/products/monkey-d-luffy-p-159-v-1",
-                    "published_at": "2026-08-16T15:59:08+01:00",
-                    "language": "EN"
-                },
                 "https://tcg-family.com/products/one-piece-eb-06-extra-booster-box-24-pack-eng": {
                     "store": "TCG Family",
                     "title": "One Piece: (EB 06) Extra Booster Box (24 Pack) (ENG)",
@@ -3667,16 +3647,6 @@
                     "url": "https://tcg-family.com/products/one-piece-eb-06-extra-booster-box-24-pack-eng",
                     "published_at": "2026-08-16T15:45:57+01:00",
                     "language": "UNKNOWN"
-                },
-                "https://tcg-family.com/products/gift-collection-one-piece-heroines-en-sob-consulta": {
-                    "store": "TCG Family",
-                    "title": "Gift Collection - ONE PIECE Heroines - EN Sob Consulta",
-                    "price": 49.99,
-                    "price_text": "49.99 €",
-                    "stock": "PREORDER",
-                    "url": "https://tcg-family.com/products/gift-collection-one-piece-heroines-en-sob-consulta",
-                    "published_at": "2026-08-12T22:33:58+01:00",
-                    "language": "EN"
                 }
             }
         }
