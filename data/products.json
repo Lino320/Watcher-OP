@@ -1452,6 +1452,15 @@
         "Padis": {
             "initialized": true,
             "products": {
+                "https://www.padis-store.com/44818-reserva-one-piece-mini-case-set-vol3-ts-03-ingles.html": {
+                    "store": "Padis",
+                    "title": "RESERVA One Piece - Mini Case Set Vol.3 TS-03 (Inglés)",
+                    "price": null,
+                    "price_text": "Sin precio",
+                    "stock": "PREORDER",
+                    "url": "https://www.padis-store.com/44818-reserva-one-piece-mini-case-set-vol3-ts-03-ingles.html",
+                    "published_at": null
+                },
                 "https://www.padis-store.com/44613-one-piece-the-worlds-strongest-warriors-op17-sobre-12-cartas-ingles.html": {
                     "store": "Padis",
                     "title": "One Piece - The World’s Strongest Warriors OP17: Sobre (12 Cartas) Inglés",
