@@ -200,7 +200,7 @@
                     "title": "ILLUSTRATION BOX #07 – O . . .",
                     "price": null,
                     "price_text": "Sin precio",
-                    "stock": "AVAILABLE",
+                    "stock": "OUT_OF_STOCK",
                     "url": "https://arte9.com/producto/illustration-box-07-one-piece-card-game-vol-7/"
                 },
                 "https://arte9.com/producto/kid-starter-deck-one-piece-st-36/": {
@@ -232,7 +232,7 @@
                     "title": "KUZAN – STARTER DECK ONE . . .",
                     "price": null,
                     "price_text": "Sin precio",
-                    "stock": "AVAILABLE",
+                    "stock": "OUT_OF_STOCK",
                     "url": "https://arte9.com/producto/kuzan-starter-deck-one-piece-st-33/"
                 },
                 "https://arte9.com/producto/zoro-starter-deck-one-piece-st-32/": {
@@ -1452,15 +1452,6 @@
         "Padis": {
             "initialized": true,
             "products": {
-                "https://www.padis-store.com/44818-reserva-one-piece-mini-case-set-vol3-ts-03-ingles.html": {
-                    "store": "Padis",
-                    "title": "RESERVA One Piece - Mini Case Set Vol.3 TS-03 (Inglés)",
-                    "price": null,
-                    "price_text": "Sin precio",
-                    "stock": "PREORDER",
-                    "url": "https://www.padis-store.com/44818-reserva-one-piece-mini-case-set-vol3-ts-03-ingles.html",
-                    "published_at": null
-                },
                 "https://www.padis-store.com/44613-one-piece-the-worlds-strongest-warriors-op17-sobre-12-cartas-ingles.html": {
                     "store": "Padis",
                     "title": "One Piece - The World’s Strongest Warriors OP17: Sobre (12 Cartas) Inglés",
