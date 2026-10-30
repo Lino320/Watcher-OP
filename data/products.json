@@ -3,6 +3,22 @@
         "Arte9": {
             "initialized": true,
             "products": {
+                "https://arte9.com/producto/caja-heroines-edition-vol-2-one-piece-card-game-eb-05/": {
+                    "store": "Arte9",
+                    "title": "CAJA HEROINES EDITION VOL.2 &# . . .",
+                    "price": null,
+                    "price_text": "Sin precio",
+                    "stock": "OUT_OF_STOCK",
+                    "url": "https://arte9.com/producto/caja-heroines-edition-vol-2-one-piece-card-game-eb-05/"
+                },
+                "https://arte9.com/producto/sobre-heroines-edition-vol-2-one-piece-card-game-eb-05/": {
+                    "store": "Arte9",
+                    "title": "SOBRE HEROINES EDITION VOL.2 & . . .",
+                    "price": null,
+                    "price_text": "Sin precio",
+                    "stock": "OUT_OF_STOCK",
+                    "url": "https://arte9.com/producto/sobre-heroines-edition-vol-2-one-piece-card-game-eb-05/"
+                },
                 "https://arte9.com/producto/3rd-anniversary-set-chinese-version-one-piece-card-game-ingles/": {
                     "store": "Arte9",
                     "title": "3RD ANNIVERSARY SET CHINESE VE . . .",
@@ -66,22 +82,6 @@
                     "price_text": "Sin precio",
                     "stock": "OUT_OF_STOCK",
                     "url": "https://arte9.com/producto/sobre-the-dominance-of-god-one-piece-card-game-op-18/"
-                },
-                "https://arte9.com/producto/caja-heroines-edition-vol-2-one-piece-card-game-eb-05/": {
-                    "store": "Arte9",
-                    "title": "PREVENTA – CAJA HEROINES . . .",
-                    "price": null,
-                    "price_text": "Sin precio",
-                    "stock": "PREORDER",
-                    "url": "https://arte9.com/producto/caja-heroines-edition-vol-2-one-piece-card-game-eb-05/"
-                },
-                "https://arte9.com/producto/sobre-heroines-edition-vol-2-one-piece-card-game-eb-05/": {
-                    "store": "Arte9",
-                    "title": "SOBRE HEROINES EDITION VOL.2 & . . .",
-                    "price": null,
-                    "price_text": "Sin precio",
-                    "stock": "OUT_OF_STOCK",
-                    "url": "https://arte9.com/producto/sobre-heroines-edition-vol-2-one-piece-card-game-eb-05/"
                 },
                 "https://arte9.com/producto/set-sail-deck-one-piece-sd-01/": {
                     "store": "Arte9",
