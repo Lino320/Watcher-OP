@@ -2378,6 +2378,16 @@
         "TodoHits": {
             "initialized": true,
             "products": {
+                "https://todohits.com/products/tin-pack-set-vol-3-op-17-one-piece-ingles": {
+                    "store": "TodoHits",
+                    "title": "Tin Pack Set Vol.3  [OP-17] | ONE PIECE | Inglés",
+                    "price": null,
+                    "price_text": "Sin precio",
+                    "stock": "OUT_OF_STOCK",
+                    "url": "https://todohits.com/products/tin-pack-set-vol-3-op-17-one-piece-ingles",
+                    "published_at": null,
+                    "language": "EN"
+                },
                 "https://todohits.com/products/double-pack-op-16-set-vol-11-one-piece-the-time-of-battle-ingles": {
                     "store": "TodoHits",
                     "title": "Double Pack OP-16 [Set Vol.11] | ONE PIECE | The Time of Battle | Inglés",
