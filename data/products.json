@@ -1452,6 +1452,15 @@
         "Padis": {
             "initialized": true,
             "products": {
+                "https://www.padis-store.com/44818-one-piece-mini-case-set-vol3-ts03-ingles.html": {
+                    "store": "Padis",
+                    "title": "One Piece - Mini Case Set Vol.3 TS03 (Inglés)",
+                    "price": null,
+                    "price_text": "Sin precio",
+                    "stock": "AVAILABLE",
+                    "url": "https://www.padis-store.com/44818-one-piece-mini-case-set-vol3-ts03-ingles.html",
+                    "published_at": null
+                },
                 "https://www.padis-store.com/44613-one-piece-the-worlds-strongest-warriors-op17-sobre-12-cartas-ingles.html": {
                     "store": "Padis",
                     "title": "One Piece - The World’s Strongest Warriors OP17: Sobre (12 Cartas) Inglés",
@@ -3478,33 +3487,23 @@
         "La Tienda Scum": {
             "initialized": true,
             "products": {
-                "https://latiendascum.com/one-piece-tcg/11564-op17-sealed-display-9981804513181.html": {
+                "https://latiendascum.com/one-piece-tcg/11598-op17-case-9981804513181.html": {
                     "store": "La Tienda Scum",
-                    "title": "OP17 sealed Display",
-                    "price": 300.0,
-                    "price_text": "300.00 €",
+                    "title": "OP17 Case",
+                    "price": 3000.0,
+                    "price_text": "3000.00 €",
                     "stock": "AVAILABLE",
-                    "url": "https://latiendascum.com/one-piece-tcg/11564-op17-sealed-display-9981804513181.html",
+                    "url": "https://latiendascum.com/one-piece-tcg/11598-op17-case-9981804513181.html",
                     "published_at": null,
                     "language": "EN"
                 },
                 "https://latiendascum.com/one-piece-tcg/11107-eb05-display-r-30-10-9981804513556.html": {
                     "store": "La Tienda Scum",
                     "title": "EB05 Display R 30/10",
-                    "price": 129.6,
-                    "price_text": "129.60 €",
+                    "price": 144.0,
+                    "price_text": "144.00 €",
                     "stock": "PREORDER",
                     "url": "https://latiendascum.com/one-piece-tcg/11107-eb05-display-r-30-10-9981804513556.html",
-                    "published_at": null,
-                    "language": "EN"
-                },
-                "https://latiendascum.com/one-piece-tcg/11106-eb05-case-r-30-10-9981804513549.html": {
-                    "store": "La Tienda Scum",
-                    "title": "EB05 Case R 30/10",
-                    "price": 1555.2,
-                    "price_text": "1555.20 €",
-                    "stock": "PREORDER",
-                    "url": "https://latiendascum.com/one-piece-tcg/11106-eb05-case-r-30-10-9981804513549.html",
                     "published_at": null,
                     "language": "EN"
                 },
@@ -3531,8 +3530,8 @@
                 "https://latiendascum.com/one-piece-tcg/11267-op18-case-r-20-11-9981804513709.html": {
                     "store": "La Tienda Scum",
                     "title": "OP18 Case R  20/11",
-                    "price": 1468.8,
-                    "price_text": "1468.80 €",
+                    "price": 1728.0,
+                    "price_text": "1728.00 €",
                     "stock": "PREORDER",
                     "url": "https://latiendascum.com/one-piece-tcg/11267-op18-case-r-20-11-9981804513709.html",
                     "published_at": null,
@@ -3541,10 +3540,20 @@
                 "https://latiendascum.com/one-piece-tcg/11266-op18-display-r-20-11-9981804513693.html": {
                     "store": "La Tienda Scum",
                     "title": "OP18  Display R 20/11",
-                    "price": 129.6,
-                    "price_text": "129.60 €",
+                    "price": 144.0,
+                    "price_text": "144.00 €",
                     "stock": "PREORDER",
                     "url": "https://latiendascum.com/one-piece-tcg/11266-op18-display-r-20-11-9981804513693.html",
+                    "published_at": null,
+                    "language": "EN"
+                },
+                "https://latiendascum.com/one-piece-tcg/11564-op17-display-9981804513181.html": {
+                    "store": "La Tienda Scum",
+                    "title": "OP17 Display",
+                    "price": 220.0,
+                    "price_text": "220.00 €",
+                    "stock": "OUT_OF_STOCK",
+                    "url": "https://latiendascum.com/one-piece-tcg/11564-op17-display-9981804513181.html",
                     "published_at": null,
                     "language": "EN"
                 }
