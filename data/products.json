@@ -1136,15 +1136,6 @@
         "Factory Cards": {
             "initialized": true,
             "products": {
-                "https://factorycardstcg.com/products/one-piece-card-game-illustration-box-ib07-y-ib08": {
-                    "store": "Factory Cards",
-                    "title": "ONE PIECE - Illustration Box IB07 y IB08 - Inglés",
-                    "price": 31.95,
-                    "price_text": "31.95 €",
-                    "stock": "OUT_OF_STOCK",
-                    "url": "https://factorycardstcg.com/products/one-piece-card-game-illustration-box-ib07-y-ib08",
-                    "published_at": "2026-07-17T16:23:09+02:00"
-                },
                 "https://factorycardstcg.com/products/preventa-one-piece-caja-24-sobres-op-14-ingle": {
                     "store": "Factory Cards",
                     "title": "ONE PIECE - OP14 The Azure Sea's Seven Booster Box Caja 24 sobres - Inglés",
@@ -1153,15 +1144,6 @@
                     "stock": "OUT_OF_STOCK",
                     "url": "https://factorycardstcg.com/products/preventa-one-piece-caja-24-sobres-op-14-ingle",
                     "published_at": "2025-06-19T20:35:05+02:00"
-                },
-                "https://factorycardstcg.com/products/one-piece-card-game-op10-booster-display-24-packs-en": {
-                    "store": "Factory Cards",
-                    "title": "ONE PIECE - OP10 Booster Box - Inglés",
-                    "price": 150.0,
-                    "price_text": "150.00 €",
-                    "stock": "OUT_OF_STOCK",
-                    "url": "https://factorycardstcg.com/products/one-piece-card-game-op10-booster-display-24-packs-en",
-                    "published_at": "2024-06-21T11:12:58+02:00"
                 }
             }
         },
