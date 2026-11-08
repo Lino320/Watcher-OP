@@ -435,6 +435,14 @@
                     "stock": "AVAILABLE",
                     "url": "https://arte9.com/producto/sketch-tapete-one-piece-ultimate-guard/"
                 },
+                "https://arte9.com/producto/tin-pack-set-vol-2-3-one-piece-ccg-ts-02/": {
+                    "store": "Arte9",
+                    "title": "TIN PACK SET VOL.2 (3) – . . .",
+                    "price": null,
+                    "price_text": "Sin precio",
+                    "stock": "OUT_OF_STOCK",
+                    "url": "https://arte9.com/producto/tin-pack-set-vol-2-3-one-piece-ccg-ts-02/"
+                },
                 "https://arte9.com/producto/double-pack-set-vol-09-the-azures-seas-seven/": {
                     "store": "Arte9",
                     "title": "DOUBLE PACK SET VOL.09 – . . .",
@@ -683,14 +691,6 @@
                     "stock": "OUT_OF_STOCK",
                     "url": "https://arte9.com/producto/anime-25th-anniversary-one-piece-card-game-eb-02/"
                 },
-                "https://arte9.com/producto/tin-pack-set-vol-1-one-piece-ccg-ts-01/": {
-                    "store": "Arte9",
-                    "title": "TIN PACK SET VOL 1 – ONE . . .",
-                    "price": null,
-                    "price_text": "Sin precio",
-                    "stock": "OUT_OF_STOCK",
-                    "url": "https://arte9.com/producto/tin-pack-set-vol-1-one-piece-ccg-ts-01/"
-                },
                 "https://arte9.com/producto/best-selection-vol-3-premium-card-collection-one-piece-ccg/": {
                     "store": "Arte9",
                     "title": "BEST SELECTION VOL 3 – P . . .",
@@ -706,6 +706,14 @@
                     "price_text": "Sin precio",
                     "stock": "OUT_OF_STOCK",
                     "url": "https://arte9.com/producto/treasure-store-one-piece-arte-9/"
+                },
+                "https://arte9.com/producto/tin-pack-set-vol-1-one-piece-ccg-ts-01/": {
+                    "store": "Arte9",
+                    "title": "TIN PACK SET VOL.1 – ONE . . .",
+                    "price": null,
+                    "price_text": "Sin precio",
+                    "stock": "OUT_OF_STOCK",
+                    "url": "https://arte9.com/producto/tin-pack-set-vol-1-one-piece-ccg-ts-01/"
                 },
                 "https://arte9.com/producto/sobre-royal-blood-op-10-one-piece/": {
                     "store": "Arte9",
