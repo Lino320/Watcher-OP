@@ -3,6 +3,14 @@
         "Arte9": {
             "initialized": true,
             "products": {
+                "https://arte9.com/producto/tin-pack-set-vol-3-6-one-piece-ccg-ts-03/": {
+                    "store": "Arte9",
+                    "title": "TIN PACK SET VOL 3 (6) – . . .",
+                    "price": null,
+                    "price_text": "Sin precio",
+                    "stock": "AVAILABLE",
+                    "url": "https://arte9.com/producto/tin-pack-set-vol-3-6-one-piece-ccg-ts-03/"
+                },
                 "https://arte9.com/producto/caja-heroines-edition-vol-2-one-piece-card-game-eb-05/": {
                     "store": "Arte9",
                     "title": "CAJA HEROINES EDITION VOL.2 &# . . .",
