@@ -3,13 +3,133 @@
         "Arte9": {
             "initialized": true,
             "products": {
+                "https://arte9.com/producto/preventa-baroque-works-one-piece-ccg-st-38/": {
+                    "store": "Arte9",
+                    "title": "PREVENTA – BAROQUE WORKS . . .",
+                    "price": null,
+                    "price_text": "Sin precio",
+                    "stock": "PREORDER",
+                    "url": "https://arte9.com/producto/preventa-baroque-works-one-piece-ccg-st-38/"
+                },
+                "https://arte9.com/producto/preventa-the-desert-princess-and-the-pirates-one-piece-ccg-st-37/": {
+                    "store": "Arte9",
+                    "title": "PREVENTA – THE DESERT PR . . .",
+                    "price": null,
+                    "price_text": "Sin precio",
+                    "stock": "PREORDER",
+                    "url": "https://arte9.com/producto/preventa-the-desert-princess-and-the-pirates-one-piece-ccg-st-37/"
+                },
+                "https://arte9.com/producto/preventa-pack-decks-2-one-piece-ccg-st-37-y-st-38/": {
+                    "store": "Arte9",
+                    "title": "PREVENTA PACK DECKS (2) – . . .",
+                    "price": null,
+                    "price_text": "Sin precio",
+                    "stock": "PREORDER",
+                    "url": "https://arte9.com/producto/preventa-pack-decks-2-one-piece-ccg-st-37-y-st-38/"
+                },
+                "https://arte9.com/producto/preventa-illustration-box-vol-10-one-piece-ccg-ib-10/": {
+                    "store": "Arte9",
+                    "title": "PREVENTA ILLUSTRATION BOX VOL. . . .",
+                    "price": null,
+                    "price_text": "Sin precio",
+                    "stock": "OUT_OF_STOCK",
+                    "url": "https://arte9.com/producto/preventa-illustration-box-vol-10-one-piece-ccg-ib-10/"
+                },
+                "https://arte9.com/producto/preventa-illustration-box-vol-9-one-piece-ccg-ib-09/": {
+                    "store": "Arte9",
+                    "title": "PREVENTA ILLUSTRATION BOX VOL. . . .",
+                    "price": null,
+                    "price_text": "Sin precio",
+                    "stock": "OUT_OF_STOCK",
+                    "url": "https://arte9.com/producto/preventa-illustration-box-vol-9-one-piece-ccg-ib-09/"
+                },
+                "https://arte9.com/producto/preventa-come-in-world-one-piece-card-game-op-19/": {
+                    "store": "Arte9",
+                    "title": "PREVENTA – COME IN, WORL . . .",
+                    "price": null,
+                    "price_text": "Sin precio",
+                    "stock": "PREORDER",
+                    "url": "https://arte9.com/producto/preventa-come-in-world-one-piece-card-game-op-19/"
+                },
+                "https://arte9.com/producto/preventa-sobre-come-in-world-one-piece-card-game-op-19/": {
+                    "store": "Arte9",
+                    "title": "PREVENTA – SOBRE COME IN . . .",
+                    "price": null,
+                    "price_text": "Sin precio",
+                    "stock": "PREORDER",
+                    "url": "https://arte9.com/producto/preventa-sobre-come-in-world-one-piece-card-game-op-19/"
+                },
+                "https://arte9.com/producto/preventa-caja-east-blue-one-piece-card-game-eb-06/": {
+                    "store": "Arte9",
+                    "title": "PREVENTA – CAJA EAST BLU . . .",
+                    "price": null,
+                    "price_text": "Sin precio",
+                    "stock": "PREORDER",
+                    "url": "https://arte9.com/producto/preventa-caja-east-blue-one-piece-card-game-eb-06/"
+                },
+                "https://arte9.com/producto/preventa-sobre-east-blue-one-piece-card-game-eb-06/": {
+                    "store": "Arte9",
+                    "title": "PREVENTA – SOBRE EAST BL . . .",
+                    "price": null,
+                    "price_text": "Sin precio",
+                    "stock": "PREORDER",
+                    "url": "https://arte9.com/producto/preventa-sobre-east-blue-one-piece-card-game-eb-06/"
+                },
                 "https://arte9.com/producto/tin-pack-set-vol-3-6-one-piece-ccg-ts-03/": {
                     "store": "Arte9",
                     "title": "TIN PACK SET VOL 3 (6) – . . .",
                     "price": null,
                     "price_text": "Sin precio",
-                    "stock": "AVAILABLE",
+                    "stock": "OUT_OF_STOCK",
                     "url": "https://arte9.com/producto/tin-pack-set-vol-3-6-one-piece-ccg-ts-03/"
+                },
+                "https://arte9.com/producto/luffy-orange-tin-pack-one-piece-ccg-ts-03/": {
+                    "store": "Arte9",
+                    "title": "LUFFY ORANGE TIN PACK –  . . .",
+                    "price": null,
+                    "price_text": "Sin precio",
+                    "stock": "AVAILABLE",
+                    "url": "https://arte9.com/producto/luffy-orange-tin-pack-one-piece-ccg-ts-03/"
+                },
+                "https://arte9.com/producto/luffy-red-tin-pack-one-piece-ccg-ts-03/": {
+                    "store": "Arte9",
+                    "title": "LUFFY RED TIN PACK – ONE . . .",
+                    "price": null,
+                    "price_text": "Sin precio",
+                    "stock": "AVAILABLE",
+                    "url": "https://arte9.com/producto/luffy-red-tin-pack-one-piece-ccg-ts-03/"
+                },
+                "https://arte9.com/producto/boa-hancock-purple-tin-pack-one-piece-ccg-ts-03/": {
+                    "store": "Arte9",
+                    "title": "BOA HANCOCK PURPLE TIN PACK &# . . .",
+                    "price": null,
+                    "price_text": "Sin precio",
+                    "stock": "AVAILABLE",
+                    "url": "https://arte9.com/producto/boa-hancock-purple-tin-pack-one-piece-ccg-ts-03/"
+                },
+                "https://arte9.com/producto/boa-hancock-pink-tin-pack-one-piece-ccg-ts-03/": {
+                    "store": "Arte9",
+                    "title": "BOA HANCOCK PINK TIN PACK R . . .",
+                    "price": null,
+                    "price_text": "Sin precio",
+                    "stock": "AVAILABLE",
+                    "url": "https://arte9.com/producto/boa-hancock-pink-tin-pack-one-piece-ccg-ts-03/"
+                },
+                "https://arte9.com/producto/shanks-2-tin-pack-one-piece-ccg-ts-03/": {
+                    "store": "Arte9",
+                    "title": "SHANKS 2 TIN PACK – ONE  . . .",
+                    "price": null,
+                    "price_text": "Sin precio",
+                    "stock": "AVAILABLE",
+                    "url": "https://arte9.com/producto/shanks-2-tin-pack-one-piece-ccg-ts-03/"
+                },
+                "https://arte9.com/producto/shanks-1-tin-pack-one-piece-ccg-ts-03/": {
+                    "store": "Arte9",
+                    "title": "SHANKS 1 TIN PACK – ONE  . . .",
+                    "price": null,
+                    "price_text": "Sin precio",
+                    "stock": "AVAILABLE",
+                    "url": "https://arte9.com/producto/shanks-1-tin-pack-one-piece-ccg-ts-03/"
                 },
                 "https://arte9.com/producto/caja-heroines-edition-vol-2-one-piece-card-game-eb-05/": {
                     "store": "Arte9",
@@ -3206,6 +3326,46 @@
         "Ninpo Store": {
             "initialized": true,
             "products": {
+                "https://ninpostore.com/products/booster-box-display-op19-24-sobres-ingles-one-piece-card-game": {
+                    "store": "Ninpo Store",
+                    "title": "Booster Box Display OP19 (24 Sobres) Inglés - One Piece Card Game",
+                    "price": 139.95,
+                    "price_text": "139.95 €",
+                    "stock": "OUT_OF_STOCK",
+                    "url": "https://ninpostore.com/products/booster-box-display-op19-24-sobres-ingles-one-piece-card-game",
+                    "published_at": "2026-11-09T19:06:45+01:00",
+                    "language": "EN"
+                },
+                "https://ninpostore.com/products/booster-box-display-eb06-24-sobres-ingles-one-piece-card-game": {
+                    "store": "Ninpo Store",
+                    "title": "Booster Box Display EB06 (24 Sobres) Inglés - One Piece Card Game",
+                    "price": 139.95,
+                    "price_text": "139.95 €",
+                    "stock": "OUT_OF_STOCK",
+                    "url": "https://ninpostore.com/products/booster-box-display-eb06-24-sobres-ingles-one-piece-card-game",
+                    "published_at": "2026-11-09T18:56:08+01:00",
+                    "language": "EN"
+                },
+                "https://ninpostore.com/products/illustration-box-ib-10-ingles-one-piece-card-game": {
+                    "store": "Ninpo Store",
+                    "title": "Illustration Box IB-10 Inglés - One Piece Card Game",
+                    "price": 31.95,
+                    "price_text": "31.95 €",
+                    "stock": "OUT_OF_STOCK",
+                    "url": "https://ninpostore.com/products/illustration-box-ib-10-ingles-one-piece-card-game",
+                    "published_at": "2026-11-09T18:38:44+01:00",
+                    "language": "EN"
+                },
+                "https://ninpostore.com/products/illustration-box-ib-09-ingles-one-piece-card-game": {
+                    "store": "Ninpo Store",
+                    "title": "Illustration Box IB-09 Inglés - One Piece Card Game",
+                    "price": 31.95,
+                    "price_text": "31.95 €",
+                    "stock": "OUT_OF_STOCK",
+                    "url": "https://ninpostore.com/products/illustration-box-ib-09-ingles-one-piece-card-game",
+                    "published_at": "2026-11-09T18:36:40+01:00",
+                    "language": "EN"
+                },
                 "https://ninpostore.com/products/starter-deck-display-st38-ingles-one-piece": {
                     "store": "Ninpo Store",
                     "title": "Starter Deck Display ST38 Inglés - One Piece",
