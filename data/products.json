@@ -3644,6 +3644,16 @@
         "La Tienda Scum": {
             "initialized": true,
             "products": {
+                "https://latiendascum.com/one-piece-tcg/11564-op17-display-9981804513181.html": {
+                    "store": "La Tienda Scum",
+                    "title": "OP17 Display",
+                    "price": 200.0,
+                    "price_text": "200.00 €",
+                    "stock": "AVAILABLE",
+                    "url": "https://latiendascum.com/one-piece-tcg/11564-op17-display-9981804513181.html",
+                    "published_at": null,
+                    "language": "EN"
+                },
                 "https://latiendascum.com/one-piece-tcg/11598-op17-case-9981804513181.html": {
                     "store": "La Tienda Scum",
                     "title": "OP17 Case",
@@ -3701,16 +3711,6 @@
                     "price_text": "144.00 €",
                     "stock": "PREORDER",
                     "url": "https://latiendascum.com/one-piece-tcg/11266-op18-display-r-20-11-9981804513693.html",
-                    "published_at": null,
-                    "language": "EN"
-                },
-                "https://latiendascum.com/one-piece-tcg/11564-op17-display-9981804513181.html": {
-                    "store": "La Tienda Scum",
-                    "title": "OP17 Display",
-                    "price": 220.0,
-                    "price_text": "220.00 €",
-                    "stock": "OUT_OF_STOCK",
-                    "url": "https://latiendascum.com/one-piece-tcg/11564-op17-display-9981804513181.html",
                     "published_at": null,
                     "language": "EN"
                 }
