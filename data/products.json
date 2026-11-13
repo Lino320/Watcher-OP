@@ -1294,29 +1294,29 @@
         "TopDeck": {
             "initialized": true,
             "products": {
+                "https://topdeck.es/tienda-de-cartas-coleccionables/eb05-booster-box-heroines-edition-vol-2-one-piece-card-game/": {
+                    "store": "TopDeck",
+                    "title": "EB05 Booster Box -Heroines Edition Vol.2 – One Piece Card Game",
+                    "price": 179.9,
+                    "price_text": "179.90 €",
+                    "stock": "OUT_OF_STOCK",
+                    "url": "https://topdeck.es/tienda-de-cartas-coleccionables/eb05-booster-box-heroines-edition-vol-2-one-piece-card-game/",
+                    "published_at": null
+                },
                 "https://topdeck.es/tienda-de-cartas-coleccionables/one-piece-tcg-set-sail-deck-set-sd-01/": {
                     "store": "TopDeck",
                     "title": "ONE PIECE TCG - SET SAIL DECK SET (SD-01)",
-                    "price": 34.9,
-                    "price_text": "34.90 €",
+                    "price": 179.9,
+                    "price_text": "179.90 €",
                     "stock": "OUT_OF_STOCK",
                     "url": "https://topdeck.es/tienda-de-cartas-coleccionables/one-piece-tcg-set-sail-deck-set-sd-01/",
-                    "published_at": null
-                },
-                "https://topdeck.es/tienda-de-cartas-coleccionables/one-piece-card-game-extra-grand-battle-for-stores-2026-september-october/": {
-                    "store": "TopDeck",
-                    "title": "ONE PIECE CARD GAME Extra Grand Battle for Stores 2026 September-October",
-                    "price": 34.9,
-                    "price_text": "34.90 €",
-                    "stock": "OUT_OF_STOCK",
-                    "url": "https://topdeck.es/tienda-de-cartas-coleccionables/one-piece-card-game-extra-grand-battle-for-stores-2026-september-october/",
                     "published_at": null
                 },
                 "https://topdeck.es/tienda-de-cartas-coleccionables/one-piece-card-game-booster-display-op-17-24-packs/": {
                     "store": "TopDeck",
                     "title": "One Piece Card Game Booster Display OP-17 (24 Packs)",
-                    "price": 34.9,
-                    "price_text": "34.90 €",
+                    "price": 179.9,
+                    "price_text": "179.90 €",
                     "stock": "OUT_OF_STOCK",
                     "url": "https://topdeck.es/tienda-de-cartas-coleccionables/one-piece-card-game-booster-display-op-17-24-packs/",
                     "published_at": null
@@ -1324,8 +1324,8 @@
                 "https://topdeck.es/tienda-de-cartas-coleccionables/one-piece-tcg-illustration-box-vol-8-ib-08/": {
                     "store": "TopDeck",
                     "title": "ONE PIECE TCG - ILLUSTRATION BOX VOL. 8 (IB-08)",
-                    "price": 34.9,
-                    "price_text": "34.90 €",
+                    "price": 179.9,
+                    "price_text": "179.90 €",
                     "stock": "OUT_OF_STOCK",
                     "url": "https://topdeck.es/tienda-de-cartas-coleccionables/one-piece-tcg-illustration-box-vol-8-ib-08/",
                     "published_at": null
@@ -1333,8 +1333,8 @@
                 "https://topdeck.es/tienda-de-cartas-coleccionables/one-piece-tcg-illustration-box-vol-7-ib-07/": {
                     "store": "TopDeck",
                     "title": "ONE PIECE TCG - ILLUSTRATION BOX VOL. 7 (IB-07)",
-                    "price": 34.9,
-                    "price_text": "34.90 €",
+                    "price": 179.9,
+                    "price_text": "179.90 €",
                     "stock": "OUT_OF_STOCK",
                     "url": "https://topdeck.es/tienda-de-cartas-coleccionables/one-piece-tcg-illustration-box-vol-7-ib-07/",
                     "published_at": null
@@ -1342,8 +1342,8 @@
                 "https://topdeck.es/tienda-de-cartas-coleccionables/op-15-adventure-on-kamis-island-booster-box/": {
                     "store": "TopDeck",
                     "title": "OP-15 Adventure on Kami’s Island Booster Box",
-                    "price": 34.9,
-                    "price_text": "34.90 €",
+                    "price": 179.9,
+                    "price_text": "179.90 €",
                     "stock": "OUT_OF_STOCK",
                     "url": "https://topdeck.es/tienda-de-cartas-coleccionables/op-15-adventure-on-kamis-island-booster-box/",
                     "published_at": null
@@ -1351,8 +1351,8 @@
                 "https://topdeck.es/tienda-de-cartas-coleccionables/st29-starter-deck-one-piece-card-game/": {
                     "store": "TopDeck",
                     "title": "ST29 – Starter Deck – One Piece Card Game",
-                    "price": 34.9,
-                    "price_text": "34.90 €",
+                    "price": 179.9,
+                    "price_text": "179.90 €",
                     "stock": "OUT_OF_STOCK",
                     "url": "https://topdeck.es/tienda-de-cartas-coleccionables/st29-starter-deck-one-piece-card-game/",
                     "published_at": null
@@ -1360,8 +1360,8 @@
                 "https://topdeck.es/tienda-de-cartas-coleccionables/op14-eb04-the-azure-seas-seven-caja-de-24-sobres/": {
                     "store": "TopDeck",
                     "title": "OP14 - EB04 -The Azure Sea's Seven - Caja de 24 Sobres",
-                    "price": 34.9,
-                    "price_text": "34.90 €",
+                    "price": 179.9,
+                    "price_text": "179.90 €",
                     "stock": "OUT_OF_STOCK",
                     "url": "https://topdeck.es/tienda-de-cartas-coleccionables/op14-eb04-the-azure-seas-seven-caja-de-24-sobres/",
                     "published_at": null
@@ -1369,8 +1369,8 @@
                 "https://topdeck.es/tienda-de-cartas-coleccionables/st24-starter-deck-one-piece-card-game/": {
                     "store": "TopDeck",
                     "title": "ST24 – Starter Deck – One Piece Card Game",
-                    "price": 34.9,
-                    "price_text": "34.90 €",
+                    "price": 179.9,
+                    "price_text": "179.90 €",
                     "stock": "OUT_OF_STOCK",
                     "url": "https://topdeck.es/tienda-de-cartas-coleccionables/st24-starter-deck-one-piece-card-game/",
                     "published_at": null
@@ -1378,8 +1378,8 @@
                 "https://topdeck.es/tienda-de-cartas-coleccionables/one-piece-card-game-official-playmat-bandai-card-games-fest-2024-25-edition/": {
                     "store": "TopDeck",
                     "title": "One Piece Card Game: Official Playmat – Bandai Card Games Fest 2024-25 Edition",
-                    "price": 34.9,
-                    "price_text": "34.90 €",
+                    "price": 179.9,
+                    "price_text": "179.90 €",
                     "stock": "OUT_OF_STOCK",
                     "url": "https://topdeck.es/tienda-de-cartas-coleccionables/one-piece-card-game-official-playmat-bandai-card-games-fest-2024-25-edition/",
                     "published_at": null
@@ -1387,8 +1387,8 @@
                 "https://topdeck.es/tienda-de-cartas-coleccionables/st25-starter-deck-one-piece-card-game/": {
                     "store": "TopDeck",
                     "title": "ST25 – Starter Deck – One Piece Card Game",
-                    "price": 34.9,
-                    "price_text": "34.90 €",
+                    "price": 179.9,
+                    "price_text": "179.90 €",
                     "stock": "OUT_OF_STOCK",
                     "url": "https://topdeck.es/tienda-de-cartas-coleccionables/st25-starter-deck-one-piece-card-game/",
                     "published_at": null
@@ -1396,8 +1396,8 @@
                 "https://topdeck.es/tienda-de-cartas-coleccionables/prb02-booster-box-one-piece-card-game/": {
                     "store": "TopDeck",
                     "title": "PRB02 - Booster Box - One Piece Card Game",
-                    "price": 34.9,
-                    "price_text": "34.90 €",
+                    "price": 179.9,
+                    "price_text": "179.90 €",
                     "stock": "OUT_OF_STOCK",
                     "url": "https://topdeck.es/tienda-de-cartas-coleccionables/prb02-booster-box-one-piece-card-game/",
                     "published_at": null
@@ -1405,8 +1405,8 @@
                 "https://topdeck.es/tienda-de-cartas-coleccionables/st23-starter-deck-one-piece-card-game/": {
                     "store": "TopDeck",
                     "title": "ST23 – Starter Deck – One Piece Card Game",
-                    "price": 34.9,
-                    "price_text": "34.90 €",
+                    "price": 179.9,
+                    "price_text": "179.90 €",
                     "stock": "OUT_OF_STOCK",
                     "url": "https://topdeck.es/tienda-de-cartas-coleccionables/st23-starter-deck-one-piece-card-game/",
                     "published_at": null
@@ -1414,8 +1414,8 @@
                 "https://topdeck.es/tienda-de-cartas-coleccionables/illustration-box-vol-4-one-piece-card-game/": {
                     "store": "TopDeck",
                     "title": "Illustration Box Vol. 4 - One Piece Card Game",
-                    "price": 34.9,
-                    "price_text": "34.90 €",
+                    "price": 179.9,
+                    "price_text": "179.90 €",
                     "stock": "OUT_OF_STOCK",
                     "url": "https://topdeck.es/tienda-de-cartas-coleccionables/illustration-box-vol-4-one-piece-card-game/",
                     "published_at": null
@@ -1423,8 +1423,8 @@
                 "https://topdeck.es/tienda-de-cartas-coleccionables/st26-starter-deck-one-piece-card-game/": {
                     "store": "TopDeck",
                     "title": "ST26 – Starter Deck – One Piece Card Game",
-                    "price": 34.9,
-                    "price_text": "34.90 €",
+                    "price": 179.9,
+                    "price_text": "179.90 €",
                     "stock": "OUT_OF_STOCK",
                     "url": "https://topdeck.es/tienda-de-cartas-coleccionables/st26-starter-deck-one-piece-card-game/",
                     "published_at": null
@@ -1432,8 +1432,8 @@
                 "https://topdeck.es/tienda-de-cartas-coleccionables/illustration-box-vol-3-one-piece-card-game/": {
                     "store": "TopDeck",
                     "title": "Illustration Box Vol. 3 - One Piece Card Game",
-                    "price": 34.9,
-                    "price_text": "34.90 €",
+                    "price": 179.9,
+                    "price_text": "179.90 €",
                     "stock": "OUT_OF_STOCK",
                     "url": "https://topdeck.es/tienda-de-cartas-coleccionables/illustration-box-vol-3-one-piece-card-game/",
                     "published_at": null
@@ -1639,6 +1639,15 @@
                     "price_text": "Sin precio",
                     "stock": "PREORDER",
                     "url": "https://www.padis-store.com/44382-reserva-one-piece-st39-starter-deck-ingles.html",
+                    "published_at": null
+                },
+                "https://www.padis-store.com/43933-one-piece-the-time-of-battle-op16-sobre-12-ingles.html": {
+                    "store": "Padis",
+                    "title": "One Piece - The Time of Battle OP16 : Sobre (12 Cartas) Inglés",
+                    "price": null,
+                    "price_text": "Sin precio",
+                    "stock": "AVAILABLE",
+                    "url": "https://www.padis-store.com/43933-one-piece-the-time-of-battle-op16-sobre-12-ingles.html",
                     "published_at": null
                 },
                 "https://www.padis-store.com/43579-reserva-one-piece-set-sail-deck-set-sd01-ingles.html": {
