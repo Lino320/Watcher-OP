@@ -1790,6 +1790,15 @@
         "Micelion Games": {
             "initialized": true,
             "products": {
+                "https://miceliongames.com/juegos/juegos-tcg/one-piece/op-19-booster-box-display-ingles-one-piece-card-game/": {
+                    "store": "Micelion Games",
+                    "title": "OP-19 Booster Box Display Inglés | One Piece Card Game",
+                    "price": 149.95,
+                    "price_text": "€ 149,95",
+                    "stock": "PREORDER",
+                    "url": "https://miceliongames.com/juegos/juegos-tcg/one-piece/op-19-booster-box-display-ingles-one-piece-card-game/",
+                    "published_at": null
+                },
                 "https://miceliongames.com/juegos/juegos-tcg/one-piece/one-piece-st30-starter-deck/": {
                     "store": "Micelion Games",
                     "title": "One piece – ST30 – Starter Deck (ENG)",
@@ -1802,8 +1811,8 @@
                 "https://miceliongames.com/juegos/juegos-tcg/one-piece/caja-de-sobres-de-op-18-24-sobres-ingles/": {
                     "store": "Micelion Games",
                     "title": "Caja de sobres de OP-18 (24 Sobres) Inglés",
-                    "price": 169.95,
-                    "price_text": "€ 169,95",
+                    "price": 184.95,
+                    "price_text": "€ 184,95",
                     "stock": "PREORDER",
                     "url": "https://miceliongames.com/juegos/juegos-tcg/one-piece/caja-de-sobres-de-op-18-24-sobres-ingles/",
                     "published_at": null
