@@ -3576,6 +3576,16 @@
         "Three Stones Games": {
             "initialized": true,
             "products": {
+                "https://threestonesgames.com/products/one-piece-tcg-double-pack-set-dp14": {
+                    "store": "Three Stones Games",
+                    "title": "One Piece TCG Double Pack Set DP14",
+                    "price": 95.95,
+                    "price_text": "95.95 €",
+                    "stock": "UNKNOWN",
+                    "url": "https://threestonesgames.com/products/one-piece-tcg-double-pack-set-dp14",
+                    "published_at": null,
+                    "language": "EN"
+                },
                 "https://threestonesgames.com/products/one-piece-premium-card-collection-day-24": {
                     "store": "Three Stones Games",
                     "title": "ONE PIECE Card Game Premium Card Collection – One Piece Day '24",
@@ -3653,16 +3663,6 @@
                     "price_text": "14.35 €",
                     "stock": "UNKNOWN",
                     "url": "https://threestonesgames.com/products/one-piece-card-game-jewelry-bonney-st-24-starter-deck",
-                    "published_at": null,
-                    "language": "EN"
-                },
-                "https://threestonesgames.com/products/starter-deck-3d2y-one-piece-card-game-st-14": {
-                    "store": "Three Stones Games",
-                    "title": "Starter Deck 3D2Y One Piece Card Game ST-14",
-                    "price": 14.35,
-                    "price_text": "14.35 €",
-                    "stock": "AVAILABLE",
-                    "url": "https://threestonesgames.com/products/starter-deck-3d2y-one-piece-card-game-st-14",
                     "published_at": null,
                     "language": "EN"
                 }
