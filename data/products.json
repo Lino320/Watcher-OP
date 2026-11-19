@@ -3641,16 +3641,6 @@
                     "published_at": null,
                     "language": "EN"
                 },
-                "https://latiendascum.com/one-piece-tcg/11267-op18-case-r-20-11-9981804513709.html": {
-                    "store": "La Tienda Scum",
-                    "title": "OP18 Case R  20/11",
-                    "price": 1728.0,
-                    "price_text": "1728.00 €",
-                    "stock": "PREORDER",
-                    "url": "https://latiendascum.com/one-piece-tcg/11267-op18-case-r-20-11-9981804513709.html",
-                    "published_at": null,
-                    "language": "EN"
-                },
                 "https://latiendascum.com/one-piece-tcg/11107-eb05-display-r-30-10-9981804513556.html": {
                     "store": "La Tienda Scum",
                     "title": "EB05 Display R 30/10",
@@ -3678,6 +3668,16 @@
                     "price_text": "1555.20 €",
                     "stock": "PREORDER",
                     "url": "https://latiendascum.com/one-piece-tcg/11525-op19-case-r-05-03.html",
+                    "published_at": null,
+                    "language": "EN"
+                },
+                "https://latiendascum.com/one-piece-tcg/11267-op18-case-r-20-11-9981804513709.html": {
+                    "store": "La Tienda Scum",
+                    "title": "OP18 Case R  20/11",
+                    "price": 1728.0,
+                    "price_text": "1728.00 €",
+                    "stock": "PREORDER",
+                    "url": "https://latiendascum.com/one-piece-tcg/11267-op18-case-r-20-11-9981804513709.html",
                     "published_at": null,
                     "language": "EN"
                 },
