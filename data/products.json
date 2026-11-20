@@ -1829,8 +1829,8 @@
                 "https://miceliongames.com/juegos/juegos-tcg/one-piece/one-piece-tcg-booster-display-op16/": {
                     "store": "Micelion Games",
                     "title": "One Piece TCG booster display OP16 (ENG)",
-                    "price": 174.95,
-                    "price_text": "€ 174,95",
+                    "price": 179.95,
+                    "price_text": "€ 179,95",
                     "stock": "OUT_OF_STOCK",
                     "url": "https://miceliongames.com/juegos/juegos-tcg/one-piece/one-piece-tcg-booster-display-op16/",
                     "published_at": null
@@ -2540,12 +2540,32 @@
         "TodoHits": {
             "initialized": true,
             "products": {
-                "https://todohits.com/products/op-18-booster-box-one-piece-the-dominance-of-god-ingles": {
+                "https://todohits.com/products/gift-collection-heroines-gc-2026-one-piece-ingles": {
                     "store": "TodoHits",
-                    "title": "OP-18 Booster Box | ONE PIECE | The Dominance of God | Inglés",
+                    "title": "Gift Collection Heroines [GC-2026] | ONE PIECE | Inglés",
                     "price": null,
                     "price_text": "Sin precio",
                     "stock": "OUT_OF_STOCK",
+                    "url": "https://todohits.com/products/gift-collection-heroines-gc-2026-one-piece-ingles",
+                    "published_at": null,
+                    "language": "EN"
+                },
+                "https://todohits.com/products/op-18-sobre-one-piece-the-dominance-of-god-ingles": {
+                    "store": "TodoHits",
+                    "title": "OP-18 Sobre | ONE PIECE | The Dominance of God | Inglés",
+                    "price": 6.99,
+                    "price_text": "6.99 €",
+                    "stock": "AVAILABLE",
+                    "url": "https://todohits.com/products/op-18-sobre-one-piece-the-dominance-of-god-ingles",
+                    "published_at": null,
+                    "language": "EN"
+                },
+                "https://todohits.com/products/op-18-booster-box-one-piece-the-dominance-of-god-ingles": {
+                    "store": "TodoHits",
+                    "title": "OP-18 Booster Box | ONE PIECE | The Dominance of God | Inglés",
+                    "price": 164.99,
+                    "price_text": "164.99 €",
+                    "stock": "AVAILABLE",
                     "url": "https://todohits.com/products/op-18-booster-box-one-piece-the-dominance-of-god-ingles",
                     "published_at": null,
                     "language": "EN"
