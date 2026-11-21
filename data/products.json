@@ -40,7 +40,7 @@
                     "title": "PREVENTA PACK DECKS (2) – . . .",
                     "price": null,
                     "price_text": "Sin precio",
-                    "stock": "PREORDER",
+                    "stock": "OUT_OF_STOCK",
                     "url": "https://arte9.com/producto/preventa-pack-decks-2-one-piece-ccg-st-37-y-st-38/"
                 },
                 "https://arte9.com/producto/preventa-illustration-box-vol-10-one-piece-ccg-ib-10/": {
@@ -344,7 +344,7 @@
                     "title": "KID – STARTER DECK ONE P . . .",
                     "price": null,
                     "price_text": "Sin precio",
-                    "stock": "AVAILABLE",
+                    "stock": "OUT_OF_STOCK",
                     "url": "https://arte9.com/producto/kid-starter-deck-one-piece-st-36/"
                 },
                 "https://arte9.com/producto/sabo-starter-deck-one-piece-st-35/": {
