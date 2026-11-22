@@ -1659,15 +1659,6 @@
                     "url": "https://www.padis-store.com/43579-reserva-one-piece-set-sail-deck-set-sd01-ingles.html",
                     "published_at": null
                 },
-                "https://www.padis-store.com/43541-reserva-one-piece-heroines-edition-vol2-eb05-caja-de-sobres-24-sobres-ingles.html": {
-                    "store": "Padis",
-                    "title": "RESERVA One Piece - Heroines Edition Vol.2 EB05: Caja de Sobres (24 Sobres) Inglés",
-                    "price": null,
-                    "price_text": "Sin precio",
-                    "stock": "PREORDER",
-                    "url": "https://www.padis-store.com/43541-reserva-one-piece-heroines-edition-vol2-eb05-caja-de-sobres-24-sobres-ingles.html",
-                    "published_at": null
-                },
                 "https://www.padis-store.com/43475-one-piece-adventure-on-the-island-of-the-gods-op15-sobre-12-ingles.html": {
                     "store": "Padis",
                     "title": "One Piece - Adventure on Kami's Islands OP15: Sobre (12 Cartas) Inglés",
@@ -3642,6 +3633,16 @@
                     "price_text": "69.95 €",
                     "stock": "UNKNOWN",
                     "url": "https://threestonesgames.com/products/one-piece-premium-card-collection-day-24",
+                    "published_at": null,
+                    "language": "EN"
+                },
+                "https://threestonesgames.com/products/one-piece-premium-card-collection-6-assort-vol-1": {
+                    "store": "Three Stones Games",
+                    "title": "ONE PIECE Card Game Premium Card Collection – 6 assort vol.1",
+                    "price": 84.95,
+                    "price_text": "84.95 €",
+                    "stock": "AVAILABLE",
+                    "url": "https://threestonesgames.com/products/one-piece-premium-card-collection-6-assort-vol-1",
                     "published_at": null,
                     "language": "EN"
                 }
