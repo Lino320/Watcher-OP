@@ -40,7 +40,7 @@
                     "title": "PREVENTA PACK DECKS (2) – . . .",
                     "price": null,
                     "price_text": "Sin precio",
-                    "stock": "OUT_OF_STOCK",
+                    "stock": "PREORDER",
                     "url": "https://arte9.com/producto/preventa-pack-decks-2-one-piece-ccg-st-37-y-st-38/"
                 },
                 "https://arte9.com/producto/preventa-illustration-box-vol-10-one-piece-ccg-ib-10/": {
@@ -2562,9 +2562,9 @@
                 "https://todohits.com/products/op-18-sobre-one-piece-the-dominance-of-god-ingles": {
                     "store": "TodoHits",
                     "title": "OP-18 Sobre | ONE PIECE | The Dominance of God | Inglés",
-                    "price": 6.99,
-                    "price_text": "6.99 €",
-                    "stock": "AVAILABLE",
+                    "price": null,
+                    "price_text": "Sin precio",
+                    "stock": "OUT_OF_STOCK",
                     "url": "https://todohits.com/products/op-18-sobre-one-piece-the-dominance-of-god-ingles",
                     "published_at": null,
                     "language": "EN"
