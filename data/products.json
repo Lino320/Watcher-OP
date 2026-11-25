@@ -40,7 +40,7 @@
                     "title": "PREVENTA PACK DECKS (2) – . . .",
                     "price": null,
                     "price_text": "Sin precio",
-                    "stock": "PREORDER",
+                    "stock": "OUT_OF_STOCK",
                     "url": "https://arte9.com/producto/preventa-pack-decks-2-one-piece-ccg-st-37-y-st-38/"
                 },
                 "https://arte9.com/producto/preventa-illustration-box-vol-10-one-piece-ccg-ib-10/": {
@@ -1808,6 +1808,15 @@
         "Micelion Games": {
             "initialized": true,
             "products": {
+                "https://miceliongames.com/juegos/juegos-tcg/one-piece/gift-collection-one-piece-heroines-ingles/": {
+                    "store": "Micelion Games",
+                    "title": "Gift Collection One Piece Heroines Inglés",
+                    "price": 79.95,
+                    "price_text": "€ 79,95",
+                    "stock": "AVAILABLE",
+                    "url": "https://miceliongames.com/juegos/juegos-tcg/one-piece/gift-collection-one-piece-heroines-ingles/",
+                    "published_at": null
+                },
                 "https://miceliongames.com/juegos/juegos-tcg/one-piece/op-19-booster-box-display-ingles-one-piece-card-game/": {
                     "store": "Micelion Games",
                     "title": "OP-19 Booster Box Display Inglés | One Piece Card Game",
