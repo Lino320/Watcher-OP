@@ -2570,8 +2570,8 @@
                 "https://todohits.com/products/premium-card-collection-live-action-edition-vol-2-baroque-works-one-piece-ingles": {
                     "store": "TodoHits",
                     "title": "Premium Card Collection Live Action Edition Vol.2 | Baroque Works | ONE PIECE | Inglés",
-                    "price": 27.99,
-                    "price_text": "27.99 €",
+                    "price": 26.99,
+                    "price_text": "26.99 €",
                     "stock": "AVAILABLE",
                     "url": "https://todohits.com/products/premium-card-collection-live-action-edition-vol-2-baroque-works-one-piece-ingles",
                     "published_at": null,
@@ -2580,8 +2580,8 @@
                 "https://todohits.com/products/premium-card-collection-live-action-edition-vol-2-straw-hat-crew-one-piece-ingles": {
                     "store": "TodoHits",
                     "title": "Premium Card Collection Live Action Edition Vol.2 | Straw Hat Crew | ONE PIECE | Inglés",
-                    "price": 27.99,
-                    "price_text": "27.99 €",
+                    "price": 26.99,
+                    "price_text": "26.99 €",
                     "stock": "AVAILABLE",
                     "url": "https://todohits.com/products/premium-card-collection-live-action-edition-vol-2-straw-hat-crew-one-piece-ingles",
                     "published_at": null,
@@ -3724,16 +3724,6 @@
                     "price_text": "200.00 €",
                     "stock": "AVAILABLE",
                     "url": "https://latiendascum.com/one-piece-tcg/11564-op17-display-9981804513181.html",
-                    "published_at": null,
-                    "language": "EN"
-                },
-                "https://latiendascum.com/one-piece-tcg/11107-eb05-display-r-30-10-9981804513556.html": {
-                    "store": "La Tienda Scum",
-                    "title": "EB05 Display R 30/10",
-                    "price": 144.0,
-                    "price_text": "144.00 €",
-                    "stock": "PREORDER",
-                    "url": "https://latiendascum.com/one-piece-tcg/11107-eb05-display-r-30-10-9981804513556.html",
                     "published_at": null,
                     "language": "EN"
                 },
