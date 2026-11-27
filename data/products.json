@@ -1596,6 +1596,15 @@
         "Padis": {
             "initialized": true,
             "products": {
+                "https://www.padis-store.com/44996-one-piece-double-pack-dp-13-the-dominance-of-god-ingles.html": {
+                    "store": "Padis",
+                    "title": "One Piece - Double Pack DP-13 The Dominance of God (Inglés)",
+                    "price": null,
+                    "price_text": "Sin precio",
+                    "stock": "AVAILABLE",
+                    "url": "https://www.padis-store.com/44996-one-piece-double-pack-dp-13-the-dominance-of-god-ingles.html",
+                    "published_at": null
+                },
                 "https://www.padis-store.com/44613-one-piece-the-worlds-strongest-warriors-op17-sobre-12-cartas-ingles.html": {
                     "store": "Padis",
                     "title": "One Piece - The World’s Strongest Warriors OP17: Sobre (12 Cartas) Inglés",
@@ -2558,6 +2567,26 @@
         "TodoHits": {
             "initialized": true,
             "products": {
+                "https://todohits.com/products/premium-card-collection-live-action-edition-vol-2-baroque-works-one-piece-ingles": {
+                    "store": "TodoHits",
+                    "title": "Premium Card Collection Live Action Edition Vol.2 | Baroque Works | ONE PIECE | Inglés",
+                    "price": 27.99,
+                    "price_text": "27.99 €",
+                    "stock": "AVAILABLE",
+                    "url": "https://todohits.com/products/premium-card-collection-live-action-edition-vol-2-baroque-works-one-piece-ingles",
+                    "published_at": null,
+                    "language": "EN"
+                },
+                "https://todohits.com/products/premium-card-collection-live-action-edition-vol-2-straw-hat-crew-one-piece-ingles": {
+                    "store": "TodoHits",
+                    "title": "Premium Card Collection Live Action Edition Vol.2 | Straw Hat Crew | ONE PIECE | Inglés",
+                    "price": 27.99,
+                    "price_text": "27.99 €",
+                    "stock": "AVAILABLE",
+                    "url": "https://todohits.com/products/premium-card-collection-live-action-edition-vol-2-straw-hat-crew-one-piece-ingles",
+                    "published_at": null,
+                    "language": "EN"
+                },
                 "https://todohits.com/products/gift-collection-heroines-gc-2026-one-piece-ingles": {
                     "store": "TodoHits",
                     "title": "Gift Collection Heroines [GC-2026] | ONE PIECE | Inglés",
