@@ -3,6 +3,22 @@
         "Arte9": {
             "initialized": true,
             "products": {
+                "https://arte9.com/producto/preventa-live-action-edition-vol-2-straw-hat-crew-premium-card-collection-one-piece-ccg/": {
+                    "store": "Arte9",
+                    "title": "PREVENTA – LIVE ACTION E . . .",
+                    "price": null,
+                    "price_text": "Sin precio",
+                    "stock": "PREORDER",
+                    "url": "https://arte9.com/producto/preventa-live-action-edition-vol-2-straw-hat-crew-premium-card-collection-one-piece-ccg/"
+                },
+                "https://arte9.com/producto/preventa-live-action-edition-vol-2-baroque-works-premium-card-collection-one-piece-ccg/": {
+                    "store": "Arte9",
+                    "title": "LIVE ACTION EDITION VOL.2 R . . .",
+                    "price": null,
+                    "price_text": "Sin precio",
+                    "stock": "AVAILABLE",
+                    "url": "https://arte9.com/producto/preventa-live-action-edition-vol-2-baroque-works-premium-card-collection-one-piece-ccg/"
+                },
                 "https://arte9.com/producto/caja-big-three-themes-one-piece-card-game-op-18/": {
                     "store": "Arte9",
                     "title": "CAJA THE DOMINANCE OF GOD R . . .",
@@ -194,22 +210,6 @@
                     "price_text": "Sin precio",
                     "stock": "OUT_OF_STOCK",
                     "url": "https://arte9.com/producto/preventa-gift-collection-heroines-edition-one-piece-cg-gd-2026/"
-                },
-                "https://arte9.com/producto/preventa-live-action-edition-vol-2-baroque-works-premium-card-collection-one-piece-ccg/": {
-                    "store": "Arte9",
-                    "title": "PREVENTA – LIVE ACTION E . . .",
-                    "price": null,
-                    "price_text": "Sin precio",
-                    "stock": "OUT_OF_STOCK",
-                    "url": "https://arte9.com/producto/preventa-live-action-edition-vol-2-baroque-works-premium-card-collection-one-piece-ccg/"
-                },
-                "https://arte9.com/producto/preventa-live-action-edition-vol-2-straw-hat-crew-premium-card-collection-one-piece-ccg/": {
-                    "store": "Arte9",
-                    "title": "PREVENTA – LIVE ACTION E . . .",
-                    "price": null,
-                    "price_text": "Sin precio",
-                    "stock": "OUT_OF_STOCK",
-                    "url": "https://arte9.com/producto/preventa-live-action-edition-vol-2-straw-hat-crew-premium-card-collection-one-piece-ccg/"
                 },
                 "https://arte9.com/producto/preventa-best-selection-vol-7-premium-card-collection-one-piece-ccg/": {
                     "store": "Arte9",
@@ -1840,7 +1840,7 @@
                     "title": "Caja de sobres de OP-18 (24 Sobres) Inglés",
                     "price": 184.95,
                     "price_text": "€ 184,95",
-                    "stock": "PREORDER",
+                    "stock": "AVAILABLE",
                     "url": "https://miceliongames.com/juegos/juegos-tcg/one-piece/caja-de-sobres-de-op-18-24-sobres-ingles/",
                     "published_at": null
                 },
